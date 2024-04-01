@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+models/*
+models_hf/7B
+models_hf/gguf-model-f32.gguf
+models_hf/output*
+datasets_all/*
+datasets/spider/*
+ft_datasets/*
+llama2_recipies/*
+llama2_repo/*
+pictures/*
+output
+checkpoints
+
+
+

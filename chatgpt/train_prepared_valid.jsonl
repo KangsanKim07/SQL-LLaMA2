@@ -1,0 +1,925 @@
+{"prompt":"Tell me the method of disinfection in a quarantine? ->","completion":" no"}
+{"prompt":"How many artificial tear ointment prescription instances occurred? ->","completion":" yes"}
+{"prompt":"When was patient 10019172 prescribed a medication via the po route the last time in 11\/2100? ->","completion":" yes"}
+{"prompt":"Tell me the average o2 saturation pulseoxymetry of patient 10021938 on last month\/14. ->","completion":" yes"}
+{"prompt":"What is the cost of introduction of nutritional substance into upper gi, via natural or artificial opening? ->","completion":" yes"}
+{"prompt":"How many cases involved the prescription of sulfameth\/trimethoprim ss this year? ->","completion":" yes"}
+{"prompt":"Will they have any urine test done for patient 24268? ->","completion":" no"}
+{"prompt":"When did patient 10006053 have the bilirubin, direct lab test for the first time during the last hospital visit? ->","completion":" yes"}
+{"prompt":"What were the total number of patients discharged from the hospital in the previous year? ->","completion":" yes"}
+{"prompt":"What specimen tests did patient 10038992 undergo for the first time during the first hospital visit? ->","completion":" yes"}
+{"prompt":"What is the patient count for midazolam prescription since 2100? ->","completion":" yes"}
+{"prompt":"Could you tell me the sex of patient 10007928? ->","completion":" yes"}
+{"prompt":"When was the last test of patient 10008454's microbiology urine since 09\/2100? ->","completion":" yes"}
+{"prompt":"Is patient 21074 subject to tests involving covid-19? ->","completion":" no"}
+{"prompt":"Was patient 10037928 given a hematocrit lab test in the last year? ->","completion":" yes"}
+{"prompt":"Can you tell me when the last asparate aminotransferase (ast) test of patient 10015272 was conducted in 06\/this year? ->","completion":" yes"}
+{"prompt":"Could you tell me how many patients stayed in the medical\/surgical intensive care unit (micu\/sicu) careunit since 1 year ago? ->","completion":" yes"}
+{"prompt":"Can you tell me the top three most common lab tests since 1 year ago? ->","completion":" yes"}
+{"prompt":"For patients previously diagnosed with nicotine dependence, cigarettes, uncomplicated , what were the five most frequent specimens tested in the same month afterward? ->","completion":" yes"}
+{"prompt":"What is the cost of thoracoscopic lobectomy of lung? ->","completion":" yes"}
+{"prompt":"Has patient 10008454 got a lymphocytes laboratory test in 12\/2100? ->","completion":" yes"}
+{"prompt":"What were the top four most frequently prescribed medicines this year? ->","completion":" yes"}
+{"prompt":"What is the drug name that should not be administered during the above knee amputation procedure? ->","completion":" no"}
+{"prompt":"How many patients had a diagnosis of methicillin susceptible pneumonia due to staphylococcus aureus during this year? ->","completion":" yes"}
+{"prompt":"What was the organism's name found in the first urine test of patient 10031757 in 10\/2100? ->","completion":" yes"}
+{"prompt":"Tell me the time when patient 10020187's arterial blood pressure mean was less than 91.0 for the first time on 02\/03\/this year? ->","completion":" yes"}
+{"prompt":"Since 07\/10\/2100, what was patient 10027445's first respiratory rate? ->","completion":" yes"}
+{"prompt":"What was the minimum monthly number of patients who had hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (luts) in 2100? ->","completion":" yes"}
+{"prompt":"What is the name of the medication that was prescribed to patient 10037975 for the last time via the iv route since 02\/2100? ->","completion":" yes"}
+{"prompt":"What are the three most commonly prescribed medications for patients diagnosed with other and unspecified hyperlipidemia previously within the same hospital visit, throughout this year? ->","completion":" yes"}
+{"prompt":"Do you suppose patient 3369 has experience side effects during a blood transfusion? ->","completion":" no"}
+{"prompt":"When was the first time that patient 10014729 has been prescribed ketorolac and sodium bicarbonate at the same time since 16 months ago? ->","completion":" yes"}
+{"prompt":"What is the average monthly number of patients suffering from personal history of sudden cardiac arrest since 2100? ->","completion":" yes"}
+{"prompt":"What organism was found in patient 10001725's last urine test during their first hospital encounter? ->","completion":" yes"}
+{"prompt":"Tell me the top five most frequent lab tests that patients were given in the same hospital visit after being diagnosed with personal history of pulmonary embolism. ->","completion":" yes"}
+{"prompt":"What's the monthly average weight of patient 10011398 since 01\/2100? ->","completion":" yes"}
+{"prompt":"How many patients received enteral infusion of concentrated nutritional substances within the same month after being diagnosed with cerebral artery occlusion, unspecified with cerebral infarction? ->","completion":" yes"}
+{"prompt":"Does patient 76494 have a family history of ac\/chr syst\/dia hrt fail ->","completion":" no"}
+{"prompt":"How many patients were present in the surgical intensive care unit (sicu) since 2100? ->","completion":" yes"}
+{"prompt":"During the first hospital visit, what was patient 10012853's age? ->","completion":" yes"}
+{"prompt":"In 2100, what are the top four most frequently tested specimens for patients within 2 months after receiving assistance with cardiac output using balloon pump, continuous? ->","completion":" yes"}
+{"prompt":"What were the top five diagnoses most frequently diagnosed since 2100? ->","completion":" yes"}
+{"prompt":"What was the total number of patients staying in med\/surg in 2100? ->","completion":" yes"}
+{"prompt":"Can you provide me with an example of how many operating rooms are available now? ->","completion":" no"}
+{"prompt":"Could you count the number of times patient 10016810 visited the hospital during the previous year? ->","completion":" yes"}
+{"prompt":"Calculate the number of patients discharged from the hospital in 2100. ->","completion":" yes"}
+{"prompt":"How much does patient 10019777 change in weight second measured on the last hospital visit compared to the first value measured on the last hospital visit? ->","completion":" yes"}
+{"prompt":"How many tramadol prescription instances took place since 2100? ->","completion":" yes"}
+{"prompt":"Has there been a hospital admission for patient 10005817 in 2100? ->","completion":" yes"}
+{"prompt":"Has any or colloid intake medication been given to patient 10039831 since 07\/26\/2100? ->","completion":" yes"}
+{"prompt":"Compared to last measured on the first ICU visit, is the arterial blood pressure mean value of patient 10005817 less than second to last measured on the first ICU visit? ->","completion":" yes"}
+{"prompt":"What was the total sum of inputs for patient 10007058 since 02\/25\/2100? ->","completion":" yes"}
+{"prompt":"What was the organism found in patient 10029291's last urine test? ->","completion":" yes"}
+{"prompt":"How long was patient 10020740's first stay in the ICU? ->","completion":" yes"}
+{"prompt":"What was the name of the medication that patient 10027602 was last prescribed since 03\/2100? ->","completion":" yes"}
+{"prompt":"What was the first time patient 10016742 has had the maximum o2 saturation pulseoxymetry on 08\/11\/this year? ->","completion":" yes"}
+{"prompt":"Did patient 10021118 undergo the excision of right saphenous vein, percutaneous endoscopic approach procedure in the last year? ->","completion":" yes"}
+{"prompt":"Today compared to yesterday, what new drugs are being prescribed to patient 10004733? ->","completion":" yes"}
+{"prompt":"What was the name of that output that patient 10039831 last had since 19 days ago? ->","completion":" yes"}
+{"prompt":"What was patient 10015931's weight the last time it was measured since 8 months ago? ->","completion":" yes"}
+{"prompt":"Tell me the number of patients discharged from the hospital in 2100. ->","completion":" yes"}
+{"prompt":"When was first time the heart rate of patient 10027602 was greater than 63.0 in their first ICU stay? ->","completion":" yes"}
+{"prompt":"What is the difference between respiratory rate second measured on the last ICU visit compared to the first value measured on the last ICU visit for patient 10019172? ->","completion":" yes"}
+{"prompt":"Give me the count of patients who were prescribed gastroview (diatrizoate meglumine & sodium) since 1 year ago. ->","completion":" yes"}
+{"prompt":"What was the first time that patient 10008287 had the maximum value of calculated total co2 since 01\/2100? ->","completion":" yes"}
+{"prompt":"Has ondansetron, oxycodone liquid, or sodium chloride 0.9% been prescribed to patient 10020740? ->","completion":" yes"}
+{"prompt":"Today compared to yesterday, what new medication does patient 10039831's prescription include? ->","completion":" yes"}
+{"prompt":"Can you tell me the total amount of metoprolol succinate xl that patient 10020944 has been prescribed in 03\/2100? ->","completion":" yes"}
+{"prompt":"What is the average total hospital cost involving a drug named loratadine since 2100? ->","completion":" yes"}
+{"prompt":"When was the first time when patient 10019568 had the minimum value of ptt? ->","completion":" yes"}
+{"prompt":"When was the first time the arterial blood pressure systolic of patient 10009628 was measured at a reading less than 123.0 in the first ICU visit? ->","completion":" yes"}
+{"prompt":"How many patients were discharged since 1 year ago from hospital? ->","completion":" yes"}
+{"prompt":"Tell me the total number of patients who were diagnosed with acute pyelonephritis since 2100. ->","completion":" yes"}
+{"prompt":"Show the number of patients who underwent respiratory ventilation, greater than 96 consecutive hours. ->","completion":" yes"}
+{"prompt":"How many hours has it been since the last time in the current hospital encounter that patient 10018081 was diagnosed with hypopotassemia? ->","completion":" yes"}
+{"prompt":"What was the name of the drug that was first prescribed for patient 10001725 since 04\/2100? ->","completion":" yes"}
+{"prompt":"In 2100, what are the top five most common specimens tested for patients previously diagnosed with personal history of self-harm within the same month? ->","completion":" yes"}
+{"prompt":"What is the treatment that patient 10007795 was given two or more times since 23 months ago? ->","completion":" yes"}
+{"prompt":"When was last time patient 65759 had a medication that is something to take all the time... ->","completion":" no"}
+{"prompt":"How much does it cost to purchase phenobarbital? ->","completion":" yes"}
+{"prompt":"Could you tell me the gender of patient 10016742? ->","completion":" yes"}
+{"prompt":"How many times patient 10018501 came to the hospital in this year? ->","completion":" yes"}
+{"prompt":"When did patient 10015931 first have the minimum amount of ph in 12\/this year? ->","completion":" yes"}
+{"prompt":"When did patient 10038999 have the last o2 saturation pulseoxymetry to be less than 99.0? ->","completion":" yes"}
+{"prompt":"On 10\/22\/this year, what was the average value of the arterial blood pressure diastolic for patient 10031757? ->","completion":" yes"}
+{"prompt":"What is the percentile of the anion gap value of 25.0 among patients of the same age as patient 10007818 during their first hospital encounter? ->","completion":" yes"}
+{"prompt":"What was a drug that patient 10001217 was prescribed for within the same hospital visit after receiving central venous catheter placement with guidance in this month? ->","completion":" yes"}
+{"prompt":"In 2100, how many patients underwent insertion of endotracheal tube during the same month after the diagnosis of acute kidney failure, unspecified? ->","completion":" yes"}
+{"prompt":"Can you show me the drug that patient 10020740 was last prescribed in 04\/this year? ->","completion":" yes"}
+{"prompt":"The first time , when was patient 10004720 prescribed insulin and artificial tear ointment at the same time? ->","completion":" yes"}
+{"prompt":"Tell me patient 10011398's average value of arterial blood pressure systolic on this month\/27. ->","completion":" yes"}
+{"prompt":"Give me the top five most frequent treatments patients received within 2 months after being diagnosed with dissection of aorta, abdominal in 2100. ->","completion":" yes"}
+{"prompt":"How many hours elapsed since patient 10018081 received his chloride lab test for the last time on their current hospital encounter? ->","completion":" yes"}
+{"prompt":"When was the last time that patient 10015931 has had the minimum o2 saturation pulseoxymetry on this month\/08? ->","completion":" yes"}
+{"prompt":"What is the history of immuno cancer drugs in the last 5 years? ->","completion":" no"}
+{"prompt":"What is today's outpatient schedule with dr. burgess? ->","completion":" no"}
+{"prompt":"Tell me the top four most frequent lab tests that patients were given within 2 months after being diagnosed with encounter for immunization since 1 year ago. ->","completion":" yes"}
+{"prompt":"When did patient 10029291's first input on 03\/08\/2100 occur? ->","completion":" yes"}
+{"prompt":"What is the number of (aorto)coronary bypass of four or more coronary arteries procedures carried out? ->","completion":" yes"}
+{"prompt":"What are the three most common treatments for patients who are 30s since 2100? ->","completion":" yes"}
+{"prompt":"Calculate the number of patients who underwent a laboratory test for urea nitrogen, urine since 1 year ago. ->","completion":" yes"}
+{"prompt":"How much is the difference of patient 10004235's weight last measured on the first hospital visit compared to the value first measured on the first hospital visit? ->","completion":" yes"}
+{"prompt":"What is the diagnosis price for postprocedural hemorrhage of a circulatory system organ or structure following a cardiac catheterization? ->","completion":" yes"}
+{"prompt":"Was there a restriction of left internal carotid artery with intraluminal device, percutaneous approach procedure performed on patient 10018328 on their last hospital encounter? ->","completion":" yes"}
+{"prompt":"How many patients are there presently admitted? ->","completion":" yes"}
+{"prompt":"What is the price of the drug, nystatin oral suspension? ->","completion":" yes"}
+{"prompt":"How many days have passed since patient 10018081 got his last diagnosis of candidiasis of mouth in this hospital encounter? ->","completion":" yes"}
+{"prompt":"Which are the four most common specimens tested? ->","completion":" yes"}
+{"prompt":"List the top five most common diagnoses in 2100. ->","completion":" yes"}
+{"prompt":"What was the total dosage of polyethylene glycol prescribed to patient 10021312 since 05\/2100? ->","completion":" yes"}
+{"prompt":"What were the top three most frequent diagnoses in 2100 with which patients were diagnosed after receiving hemodialysis within 2 months? ->","completion":" yes"}
+{"prompt":"Does patient 3125 have traveled abroad? ->","completion":" no"}
+{"prompt":"What was patient 10018423's insurance name on their last hospital visit? ->","completion":" yes"}
+{"prompt":"What was the drug that was prescribed to patient 10016150 for the last time in 05\/this year via the po route? ->","completion":" yes"}
+{"prompt":"During the first hospital encounter, what was the monthly maximum dose of dextrose 5% for patient 10005909? ->","completion":" yes"}
+{"prompt":"When was the first time that patient 10005817's heart rate was measured at less than 84.0 on their first ICU visit? ->","completion":" yes"}
+{"prompt":"When did patient 10039997 last receive an input since 08\/11\/2100? ->","completion":" yes"}
+{"prompt":"What is the body weight change of patient 10020740 last measured on the first hospital visit compared to the second to last value measured on the first hospital visit? ->","completion":" yes"}
+{"prompt":"What is the cost of a diagnosis for other cirrhosis of liver? ->","completion":" yes"}
+{"prompt":"Calculate how many drugs patient 10007058 was prescribed since 09\/2100. ->","completion":" yes"}
+{"prompt":"List the top five most frequently tested specimens throughout this year. ->","completion":" yes"}
+{"prompt":"What was the first time patient 10004733 received ph in a lab test in 12\/this year? ->","completion":" yes"}
+{"prompt":"Ist patient 5142 subject to covid-19 testing ->","completion":" no"}
+{"prompt":"Inform me about the total amount of patient 10006580's input since 05\/02\/2100. ->","completion":" yes"}
+{"prompt":"In what ways can phenazopyridine be ingested? ->","completion":" yes"}
+{"prompt":"What is the average value of bicarbonate in patient 10025612's body? ->","completion":" yes"}
+{"prompt":"How long was patient 10001725's first stay in the ICU? ->","completion":" yes"}
+{"prompt":"Did patient 10025463 undergo a chloride test during the last hospital encounter? ->","completion":" yes"}
+{"prompt":"Could you tell me the top four most common procedures for patients aged 50s since 2100? ->","completion":" yes"}
+{"prompt":"How many people had a test for h in 2100? ->","completion":" yes"}
+{"prompt":"What was the first drug that was prescribed to patient 10021938 via the pr route? ->","completion":" yes"}
+{"prompt":"Could you calculate the total amount of output from patient 10008454 since 192 days ago? ->","completion":" yes"}
+{"prompt":"Calculate the number of medicines that patient 10010471 was prescribed since 13 months ago. ->","completion":" yes"}
+{"prompt":"Was patient 10029291 to the er during their last hospital encounter? ->","completion":" yes"}
+{"prompt":"What output did patient 10026354 last have on 10\/30\/this year? ->","completion":" yes"}
+{"prompt":"What was the five most common microbiology test conducted in 2100? ->","completion":" yes"}
+{"prompt":"Which medication was patient 10009035 prescribed within 2 days following the extracorporeal circulation auxiliary to open heart surgery procedure in 05\/this year? ->","completion":" yes"}
+{"prompt":"What is the maximum total hospital cost for a patient suffering from acute edema of lung, unspecified since 1 year ago? ->","completion":" yes"}
+{"prompt":"Tell me the average arterial blood pressure systolic in patient 10021487 on 12\/09\/2100. ->","completion":" yes"}
+{"prompt":"When was the first time that patient 10038081 had the minimum immunoglobulin g value? ->","completion":" yes"}
+{"prompt":"Give me the three most common treatments. ->","completion":" yes"}
+{"prompt":"For patient 10039831, what was the first hematocrit, calculated reading in their current hospital encounter? ->","completion":" yes"}
+{"prompt":"Could you retrieve the top three most common outputs? ->","completion":" yes"}
+{"prompt":"Tell me the total number of patients in neurology. ->","completion":" yes"}
+{"prompt":"Was patient 10037861 through any surgery in the first hospital visit? ->","completion":" yes"}
+{"prompt":"What is the maximum total cost of a hospital stay involving closed fracture of four ribs in 2100? ->","completion":" yes"}
+{"prompt":"Tell me patient 10023239's maximum value of heart rate since 04\/15\/2100. ->","completion":" yes"}
+{"prompt":"How many patients were diagnosed with other postoperative infection since 2100 after already being diagnosed with injury to thoracic aorta during the same hospital encounter? ->","completion":" yes"}
+{"prompt":"Will any additional blood culture test be done on patient 76275? ->","completion":" no"}
+{"prompt":"How much does it cost for a other specified disorders of stomach and duodenum diagnosis? ->","completion":" yes"}
+{"prompt":"What was the dose of yellow cadd cassette that was last prescribed to patient 10014729 in 03\/2100? ->","completion":" yes"}
+{"prompt":"What was the name of the output which patient 10004733 had last had since 03\/07\/2100? ->","completion":" yes"}
+{"prompt":"What specimen test was given since 08\/2100 to patient 10007795 for the last time? ->","completion":" yes"}
+{"prompt":"What are the top four most frequent procedures since 2100? ->","completion":" yes"}
+{"prompt":"Was the absolute eosinophil count value of patient 10038999 second measured on the first hospital visit less than the value first measured on the first hospital visit? ->","completion":" yes"}
+{"prompt":"What was prescribed to patient 10018423 within 2 days following their measurement of cardiac sampling and pressure, left heart, percutaneous approach? ->","completion":" yes"}
+{"prompt":"What is the difference between o2 saturation pulseoxymetry last measured on the last ICU visit compared to the first value measured on the last ICU visit for patient 10022041? ->","completion":" yes"}
+{"prompt":"How many times, since 1 year ago, was a open reduction of fracture with internal fixation, humerus procedure ordered? ->","completion":" yes"}
+{"prompt":"Could you list the top five most common lab tests? ->","completion":" yes"}
+{"prompt":"Can you tell me if patient 10020944 is male or female? ->","completion":" yes"}
+{"prompt":"Find out the number of hospital visits patient 10014078 had in the last year. ->","completion":" yes"}
+{"prompt":"List the top four most frequent lab tests since 2100. ->","completion":" yes"}
+{"prompt":"What was the amount of fluticasone-salmeterol diskus (100\/50) prescribed to patient 10021666 in total in 03\/this year? ->","completion":" yes"}
+{"prompt":"When did patient 10031404 since 07\/04\/2100 for the first time have an input? ->","completion":" yes"}
+{"prompt":"What is the\b reimbursement standard for genetic and chromosome tests? ->","completion":" no"}
+{"prompt":"Which procedure was performed on patient 10027602 two or more times since 11\/2100? ->","completion":" yes"}
+{"prompt":"Has patient 10031404 undergone any procedure since 2100? ->","completion":" yes"}
+{"prompt":"What was the last value of a asparate aminotransferase (ast) lab test of patient 10021938 last month? ->","completion":" yes"}
+{"prompt":"When did patient 10021487 have the first arterial blood pressure systolic observed to be greater than 100.0 since 12\/05\/2100? ->","completion":" yes"}
+{"prompt":"How many hours has it been since patient 10021487's first cardiac complications, not elsewhere classified diagnosis in the current hospital encounter? ->","completion":" yes"}
+{"prompt":"How many prescriptions for tramadol were made throughout this year? ->","completion":" yes"}
+{"prompt":"Count the number of patients who had their other cell tested in 2100. ->","completion":" yes"}
+{"prompt":"What was patient 10018081's maximum arterial blood pressure systolic since 06\/07\/2100? ->","completion":" yes"}
+{"prompt":"Has patient 10038933 been admitted into the emergency room since 2100? ->","completion":" yes"}
+{"prompt":"Can you confirm the gender of patient 10026354? ->","completion":" yes"}
+{"prompt":"What was the total number of patients staying in hematology\/oncology since 1 year ago? ->","completion":" yes"}
+{"prompt":"In this year, what was the last diagnosis for patient 10012552? ->","completion":" yes"}
+{"prompt":"Tell me what the top three most common diagnoses of patients with an age of 60 or above throughout this year? ->","completion":" yes"}
+{"prompt":"What was the name of the organism found in patient 10021487's first bronchoalveolar lavage microbiological test since 03\/2100? ->","completion":" yes"}
+{"prompt":"Could you retrieve the top four diagnoses that have the highest 6-month mortality rate? ->","completion":" yes"}
+{"prompt":"When did patient 10000032 receive a mrsa screen microbiology test for the first time since 03\/2100? ->","completion":" yes"}
+{"prompt":"Was patient 10020187 admitted into the emergency room in the previous year? ->","completion":" yes"}
+{"prompt":"What was the name of the specimen test that patient 10026406 had for the first time in 01\/this year? ->","completion":" yes"}
+{"prompt":"What was the drug patient 10010471 was prescribed for the last time using the po route since 03\/2100? ->","completion":" yes"}
+{"prompt":"Calculate the number of people who had respiratory ventilation, greater than 96 consecutive hours. ->","completion":" yes"}
+{"prompt":"How many patients in 2100 were diagnosed with insomnia, unspecified within the same hospital visit after the diagnosis of other postprocedural status? ->","completion":" yes"}
+{"prompt":"What diagnosis did patient 10031757 receive in 2100 for the first time? ->","completion":" yes"}
+{"prompt":"Was patient 10019777 treated with a procedure on single vessel procedure in the previous year? ->","completion":" yes"}
+{"prompt":"Display the top three most commonly prescribed drugs. ->","completion":" yes"}
+{"prompt":"What was the first drug prescribed last month to patient 10005909 via the sc route? ->","completion":" yes"}
+{"prompt":"What are the five most frequently ordered laboratory tests since 2100? ->","completion":" yes"}
+{"prompt":"Was any free water medication given to patient 10024043 on 12\/24\/last year? ->","completion":" yes"}
+{"prompt":"How much does it cost to purchase diltiazem extended-release? ->","completion":" yes"}
+{"prompt":"What is the average total hospital cost including a ck-mb index lab test? ->","completion":" yes"}
+{"prompt":"Could you inform me about patient 10006053's first heart rate on 11\/17\/this year? ->","completion":" yes"}
+{"prompt":"Has patient 10029291 been prescribed with the medication perphenazine, furosemide, or neomycin-polymyxin-bacitracin since 2100? ->","completion":" yes"}
+{"prompt":"What are the top three most common microbiology tests that patients had after the diagnosis of abdominal pain, unspecified site in the same month? ->","completion":" yes"}
+{"prompt":"How many people were diagnosed with acute kidney failure with lesion of tubular necrosis since 2100? ->","completion":" yes"}
+{"prompt":"Calculate the number of prescribed drugs for patient 10001725 in 04\/this year. ->","completion":" yes"}
+{"prompt":"When was the first time patient 10011398 was prescribed drugs via po on their last hospital encounter? ->","completion":" yes"}
+{"prompt":"What was the change in o2 saturation pulseoxymetry in patient 10016742 last measured on the last ICU visit compared to the second to last value measured on the last ICU visit? ->","completion":" yes"}
+{"prompt":"When were patient 10007795 first prescribed for metronidazole (flagyl) and ns at the same time? ->","completion":" yes"}
+{"prompt":"What was the output that patient 10004235 first had during the first ICU stay? ->","completion":" yes"}
+{"prompt":"Describe all prescriptions that patient 54894 received in the other department. ->","completion":" no"}
+{"prompt":"Tell me the dose of an opioid prescribed to patient 1258? ->","completion":" no"}
+{"prompt":"What is the percentile of 3.6 for a creatinine test given the same age as patient 10004733 in the current hospital encounter? ->","completion":" yes"}
+{"prompt":"Compared to yesterday, what new prescriptions were given to patient 10039831 today? ->","completion":" yes"}
+{"prompt":"What was the amount of lidocaine 1% dose prescribed to patient 10001217 since 03\/2100? ->","completion":" yes"}
+{"prompt":"Calculate the total quantity of output of patient 10018081 since 12\/12\/2100. ->","completion":" yes"}
+{"prompt":"In 10\/this year, what was the maximum mcv value for patient 10018845? ->","completion":" yes"}
+{"prompt":"What was the name of the organism found in the last microbiology test conducted on patient 10007795's urine since 05\/2100? ->","completion":" yes"}
+{"prompt":"In 2100, has patient 10002495 received a fluoroscopy of multiple coronary arteries using other contrast treatment? ->","completion":" yes"}
+{"prompt":"Has patient 10016742 been ordered sw, sodium chloride 0.9%, or heparin in 2100? ->","completion":" yes"}
+{"prompt":"What is the price of a drug named ampicillin sodium? ->","completion":" yes"}
+{"prompt":"How much morphine sulfate (oral solution) 2 mg\/ml was first prescribed to patient 10021312 in 08\/this year? ->","completion":" yes"}
+{"prompt":"Expose the top five most frequent output events in 2100. ->","completion":" yes"}
+{"prompt":"Tell me the amount of total foley that patient 10010471 had since 03\/08\/2100. ->","completion":" yes"}
+{"prompt":"When was the first time the o2 saturation pulseoxymetry of patient 10018081 was greater than 92.0, on 12\/29\/this year? ->","completion":" yes"}
+{"prompt":"In the previous year, how many patients underwent a transcatheter embolization for gastric or duodenal bleeding within 2 months after the diagnosis of unspecified essential hypertension? ->","completion":" yes"}
+{"prompt":"What were the five most commonly performed lab tests for patients who were previously diagnosed with cholangitis in the same hospital visit, in this year? ->","completion":" yes"}
+{"prompt":"What new meds are prescribed to patient 10004733 today compared to the ones from yesterday? ->","completion":" yes"}
+{"prompt":"How much does the ph change in patient 10021666 last measured on the last hospital visit compared to the first value measured on the last hospital visit? ->","completion":" yes"}
+{"prompt":"Is the creatinine value last measured on the first hospital visit in patient 10018501 less than the value from the second to last measurement on the first hospital visit? ->","completion":" yes"}
+{"prompt":"What was the insurance for patient 10031404 in the first hospital visit? ->","completion":" yes"}
+{"prompt":"How much does the drug alprazolam cost? ->","completion":" yes"}
+{"prompt":"Has patient 10016810 received a medication prescription since 1 year ago? ->","completion":" yes"}
+{"prompt":"Calculate the total amount of foley of patient 10006580 in the first ICU visit. ->","completion":" yes"}
+{"prompt":"What was the name of the insurance used for patient 10000032 in their first hospital visit? ->","completion":" yes"}
+{"prompt":"Has patient 10029484 been on glipizide xl, 0.9% sodium chloride, or insulin human regular as prescribed? ->","completion":" yes"}
+{"prompt":"When did patient 10011398 get the microbiology test for the last time in 12\/this year? ->","completion":" yes"}
+{"prompt":"Count the ICU visits of patient 10018328 since 1 year ago. ->","completion":" yes"}
+{"prompt":"When was the time of patient 10022017's first hospital discharge? ->","completion":" yes"}
+{"prompt":"Has patient 10038999 been given any magnesium sulfate (bolus) medication in 12\/last year? ->","completion":" yes"}
+{"prompt":"What was the first time patient 10029291 input time on 02\/25\/2100? ->","completion":" yes"}
+{"prompt":"For the last time on the first hospital stay, what was patient 10018423 diagnosed with? ->","completion":" yes"}
+{"prompt":"List the top three most frequent events occurring. ->","completion":" yes"}
+{"prompt":"How much is performance of cardiac output, continuous? ->","completion":" yes"}
+{"prompt":"In 07\/2100, levothyroxine sodium, 0.45% sodium chloride, or lisinopril was prescribed for patient 10002428. ->","completion":" yes"}
+{"prompt":"How many dofetilide prescription instances occurred in 2100? ->","completion":" yes"}
+{"prompt":"Show me the top three most commonly prescribed drugs since 1 year ago. ->","completion":" yes"}
+{"prompt":"What is the correct dosage of the prescribed opioid to patient 42829? ->","completion":" no"}
+{"prompt":"What is the percentile of 80.0 in the ferritin lab test with the same age as patient 10002428 on the last hospital encounter? ->","completion":" yes"}
+{"prompt":"What is the foley output for patient 10026354 since 03\/01\/2100? ->","completion":" yes"}
+{"prompt":"What number of patients stayed in medicine\/cardiology during the last year? ->","completion":" yes"}
+{"prompt":"How many times was patient 10014354 in the hospital in the last year? ->","completion":" yes"}
+{"prompt":"Can you provide me the daily average amount of or colloid intake that patient 10039831 received in their current hospital visit? ->","completion":" yes"}
+{"prompt":"What are the five most commonly prescribed medications for patients who were diagnosed with atherosclerotic heart disease of native coronary artery without angina pectoris previously in the same month, in 2100? ->","completion":" yes"}
+{"prompt":"Calculate the number of patients who were in the neuro stepdown careunit in this year. ->","completion":" yes"}
+{"prompt":"When did patient 10007818 receive a mrsa screen microbiology test first in 07\/2100? ->","completion":" yes"}
+{"prompt":"Count the patients who are currently admitted. ->","completion":" yes"}
+{"prompt":"Provide the top four most common treatments since 1 year ago. ->","completion":" yes"}
+{"prompt":"Count the current patients who are in the 40s. ->","completion":" yes"}
+{"prompt":"Calculate the number of patients diagnosed with alkalosis. ->","completion":" yes"}
+{"prompt":"When was patient 10016150's last discharge since 1 year ago? ->","completion":" yes"}
+{"prompt":"When was patient 10004733 prescribed the drugs heparin flush (100 units\/ml) and vancomycin at the same time for the last time since 10\/2100? ->","completion":" yes"}
+{"prompt":"Could you provide me with the three most frequent output events this year? ->","completion":" yes"}
+{"prompt":"Has patient 10022017 undergone a free calcium laboratory test since 04\/2100? ->","completion":" yes"}
+{"prompt":"When did patient 10021312 have his first microbiology test in 09\/2100? ->","completion":" yes"}
+{"prompt":"What were the top four most frequent diagnoses with which patients were diagnosed after receiving excision of other bile duct within 2 months? ->","completion":" yes"}
+{"prompt":"What are the four most regularly ordered treatments for patients previously diagnosed with noncompliance with renal dialysis in the same hospital visit in 2100? ->","completion":" yes"}
+{"prompt":"When was patient 10006053's last input during their last ICU visit? ->","completion":" yes"}
+{"prompt":"What were the name of the treatment received by patient 10029291 two or more times during the last hospital visit? ->","completion":" yes"}
+{"prompt":"What was the name of the specimen given to patient 10011398 for the first time in the last hospital visit? ->","completion":" yes"}
+{"prompt":"What were the first ptt values of patient 10039831? ->","completion":" yes"}
+{"prompt":"Tell me the three most common microbiology tests for patients who were previously diagnosed with adverse effect of penicillins, initial encounter within 2 months. ->","completion":" yes"}
+{"prompt":"How much is the cost for the drug sodium chloride 0.9%? ->","completion":" yes"}
+{"prompt":"When had patient 10016810 last been prescribed for pseudoephedrine and levothyroxine sodium at the same time since 06\/2100? ->","completion":" yes"}
+{"prompt":"What is the cost for the drug haloperidol? ->","completion":" yes"}
+{"prompt":"During the first ICU visit, when did patient 10025612 have their last input? ->","completion":" yes"}
+{"prompt":"Show me the top five most commonly prescribed drugs since 1 year ago. ->","completion":" yes"}
+{"prompt":"What were the three most common tests conducted on specimens since 2100? ->","completion":" yes"}
+{"prompt":"What is the number of patients that received a bands test since 1 year ago? ->","completion":" yes"}
+{"prompt":"When did the last hospital discharge of patient 10020786 occur since 2100? ->","completion":" yes"}
+{"prompt":"Is the white blood cells level of patient 10001725 last measured on the first hospital visit less than the first measurement on the first hospital visit? ->","completion":" yes"}
+{"prompt":"Is the urea nitrogen value of patient 10002428 last measured on the first hospital visit less than the value from the first measurement on the first hospital visit? ->","completion":" yes"}
+{"prompt":"What was the first time that the o2 saturation pulseoxymetry of patient 10004422 was, on 01\/22\/this year, less than 96.0? ->","completion":" yes"}
+{"prompt":"Show me the top three most frequent specimens tested since 2100. ->","completion":" yes"}
+{"prompt":"Tell me the minimum overall hospital cost that includes vitamin e? ->","completion":" yes"}
+{"prompt":"Provide the length of the first visit for patient 10026406 in the ICU. ->","completion":" yes"}
+{"prompt":"What was the first value of a myelocytes lab test of patient 10004235 during their last hospital visit? ->","completion":" yes"}
+{"prompt":"When did patient 10019172 receive a blood culture microbiology test for the last time since 10\/2100? ->","completion":" yes"}
+{"prompt":"What was the first medication that patient 10007795 was prescribed via po\/ng route in 05\/this year? ->","completion":" yes"}
+{"prompt":"What's the cost of a drug known as ranitidine (liquid)? ->","completion":" yes"}
+{"prompt":"What was the name of the drug that patient 10022017 was first prescribed? ->","completion":" yes"}
+{"prompt":"Has patient 10004235 received any treatment of laparoscopic cholecystectomy since 1 year ago? ->","completion":" yes"}
+{"prompt":"When was the first time that patient 10036156 was tested for creatine kinase, mb isoenzyme on the last hospital visit? ->","completion":" yes"}
+{"prompt":"How many cases involved the prescription of insulin (regular) for hyperkalemia since 2100? ->","completion":" yes"}
+{"prompt":"Was patient 10016150 admitted into the hospital in the previous year? ->","completion":" yes"}
+{"prompt":"Have any procedures been carried out on patient 10035185 since 2100? ->","completion":" yes"}
+{"prompt":"Has patient 10002930 received a medication prescription since 02\/2100? ->","completion":" yes"}
+{"prompt":"What are the total average expenses for a hospital involving a laboratory test for oxygen since 2100? ->","completion":" yes"}
+{"prompt":"Can you point to a genetic test that patient 28447 received? ->","completion":" no"}
+{"prompt":"Was patient 10040025's chloride last measured on the last hospital visit greater than the value first measured on the last hospital visit? ->","completion":" yes"}
+{"prompt":"What was the organism found in patient 10021312's first bronchial washings test since 02\/2100? ->","completion":" yes"}
+{"prompt":"Was patient 10005909 prescribed with the medication enoxaparin sodium, docusate sodium, or 5% dextrose in their last hospital visit? ->","completion":" yes"}
+{"prompt":"How many patients were given methocarbamol since 2100? ->","completion":" yes"}
+{"prompt":"When was the last time last month that patient 10019172 was prescribed with syringe and 0.9% sodium chloride at the same time? ->","completion":" yes"}
+{"prompt":"What is the maximum yearly number of patients affected by other specified hypotension? ->","completion":" yes"}
+{"prompt":"What were the top five frequent laboratory tests that patients had after they were diagnosed with paralytic ileus during the same hospital visit? ->","completion":" yes"}
+{"prompt":"Let me know what i'll need to prepare for the delayed clos abd wound procedure ->","completion":" no"}
+{"prompt":"How many patients underwent extracorporeal circulation auxiliary to open heart surgery within 2 months after the diagnosis of long-term (current) use of insulin? ->","completion":" yes"}
+{"prompt":"Which drug was the last one prescribed for patient 10007818 in 07\/this year? ->","completion":" yes"}
+{"prompt":"Patient 10014078's chloride last measured on the last hospital visit is less than the second to last value measured on the last hospital visit? ->","completion":" yes"}
+{"prompt":"Could you tell me the sex of patient 10002930? ->","completion":" yes"}
+{"prompt":"How many days have passed since the last time patient 10021487 has received a glucose-lab test on their current hospital visit? ->","completion":" yes"}
+{"prompt":"Ya do you know if there was a genetic test patient 97330 received? ->","completion":" no"}
+{"prompt":"Show the weight changes of patient 10020944 measured at 2100-03-15 04:00:00 compared to the value measured at 2100-03-14 00:00:00? ->","completion":" yes"}
+{"prompt":"What is the common method for taking nystatin cream? ->","completion":" yes"}
+{"prompt":"Can you please tell me the name of the diagnosis that patient 73693 received from the other department? ->","completion":" no"}
+{"prompt":"What is the average total cost of a hospital that includes a procedure called fluoroscopy of superior vena cava using other contrast, guidance throughout this year? ->","completion":" yes"}
+{"prompt":"Has any organism been found in patient 10021487's last sputum test conducted in 12\/this year? ->","completion":" yes"}
+{"prompt":"Calculate patient 10004720's total amount of tf residual output on this month\/07. ->","completion":" yes"}
+{"prompt":"For patients who received other electroshock therapy since 2100, what are the top four most frequent diagnoses that followed afterwards within 2 months? ->","completion":" yes"}
+{"prompt":"What is the price of a diagnosis for sepsis? ->","completion":" yes"}
+{"prompt":"What was patient 10001725's daily maximum weight this year? ->","completion":" yes"}
+{"prompt":"What kind of diagnosis did patient 10031757 receive first on their first hospital encounter? ->","completion":" yes"}
+{"prompt":"Calculate the total quantity of output of patient 10004235. ->","completion":" yes"}
+{"prompt":"Tell me the type of blood of patient 31854? ->","completion":" no"}
+{"prompt":"How many times was a excision of left main bronchus, via natural or artificial opening endoscopic procedure done during the last year? ->","completion":" yes"}
+{"prompt":"How many hours has elapsed since the first time during their current hospital encounter patient 10021487 had received a albumin, pleural lab test? ->","completion":" yes"}
+{"prompt":"What was the last specimen test given to patient 10007818 during their last hospital visit? ->","completion":" yes"}
+{"prompt":"Since 2100, how many patients required amitriptyline? ->","completion":" yes"}
+{"prompt":"Was hydrochlorothiazide, vial, or atenolol ordered in their last hospital encounter for patient 10016810? ->","completion":" yes"}
+{"prompt":"How many drugs were given to patient 10023239 since 2100? ->","completion":" yes"}
+{"prompt":"Count the number of people who were diagnosed with open fracture of shaft of femur. ->","completion":" yes"}
+{"prompt":"Can you retrieve the top five most frequent lab tests patients had following a diagnosis of cardiac complications, not elsewhere classified during the same month? ->","completion":" yes"}
+{"prompt":"Could you tell me the name of the drug prescribed to patient 10027602 in the same day after the insertion or replacement of external ventricular drain [evd] procedure since 05\/2100? ->","completion":" yes"}
+{"prompt":"On their last hospital encounter, what was patient 10006053's age? ->","completion":" yes"}
+{"prompt":"What were the total number of patients discharged from the hospital? ->","completion":" yes"}
+{"prompt":"Tell me what the total foley output of patient 10020740 is on 03\/24\/2100. ->","completion":" yes"}
+{"prompt":"What was patient 10016742's minimum value of base excess in 07\/this year? ->","completion":" yes"}
+{"prompt":"Count the number of patients who were given the indomethacin since 1 year ago. ->","completion":" yes"}
+{"prompt":"How many patients had been diagnosed with unspecified place in hospital as the place of occurrence of the external cause? ->","completion":" yes"}
+{"prompt":"How much does malignant neoplasm of central portion of female breast cost to get diagnosed? ->","completion":" yes"}
+{"prompt":"Tell me the total number of patients who were discharged from the hospital in 2100. ->","completion":" yes"}
+{"prompt":"How many patients were diagnosed with atherosclerotic heart disease of native coronary artery with unspecified angina pectoris within 2 months after first being diagnosed with atherosclerotic heart disease of native coronary artery with unstable angina pectoris since 2100? ->","completion":" yes"}
+{"prompt":"For patients who were previously diagnosed with fibromyalgia, what are the top three most frequent treatments within the same month in 2100? ->","completion":" yes"}
+{"prompt":"Was patient 10004422 on their first hospital visit given a mchc lab test? ->","completion":" yes"}
+{"prompt":"What are the three commonly ordered medications for patients who were diagnosed with atrial fibrillation previously in the same hospital visit, in this year? ->","completion":" yes"}
+{"prompt":"The last time , when was patient 10002495 prescribed insulin and atorvastatin at the same time? ->","completion":" yes"}
+{"prompt":"Tell me the minimum total hospital cost that includes respiratory ventilation, greater than 96 consecutive hours since 1 year ago. ->","completion":" yes"}
+{"prompt":"What are the three most commonly ordered medications in this year? ->","completion":" yes"}
+{"prompt":"I want to know the ward id that patient 1784 can go in and get in? ->","completion":" no"}
+{"prompt":"What are the costs of allergic rhinitis, cause unspecified diagnosis? ->","completion":" yes"}
+{"prompt":"Tell me the name of the specimen test that patient 10000032 first received since 07\/2100? ->","completion":" yes"}
+{"prompt":"What was the last drug that was prescribed to patient 10038992 in their last hospital encounter via the oral route? ->","completion":" yes"}
+{"prompt":"Provide the total input volume for patient 10029291 since 03\/01\/2100. ->","completion":" yes"}
+{"prompt":"When was the last time of input time of patient 10004720 since 08\/08\/2100? ->","completion":" yes"}
+{"prompt":"What was patient 10022041's maximum heart rate reading in their first ICU stay? ->","completion":" yes"}
+{"prompt":"What was the name of the organism found in patient 10021487's last bronchoalveolar lavage microbiology test since 08\/2100? ->","completion":" yes"}
+{"prompt":"What is the void output for patient 10018845 since 103 days ago? ->","completion":" yes"}
+{"prompt":"When was the last time since 10\/2100 that patient 10038992 was prescribed with vitamin d and felodipine at the same time? ->","completion":" yes"}
+{"prompt":"What were the top five most common specimen tests conducted? ->","completion":" yes"}
+{"prompt":"What was the duration of serum transfusion nec for patient 29540? ->","completion":" no"}
+{"prompt":"What was the organism found in patient 10037975's first sputum test since 02\/2100? ->","completion":" yes"}
+{"prompt":"What is the total number of patients discharged from the hospital this year? ->","completion":" yes"}
+{"prompt":"Calculate the number of patients diagnosed with other and unspecified escherichia coli [e. coli] in 2100. ->","completion":" yes"}
+{"prompt":"First time, what drug was prescribed for patient 10014729 since 02\/2100? ->","completion":" yes"}
+{"prompt":"In 2100, how many patients received fluoroscopy of multiple coronary arteries using other contrast within the same hospital visit after being diagnosed with severe sepsis with septic shock? ->","completion":" yes"}
+{"prompt":"What drug was first prescribed to patient 10007058 since 09\/2100? ->","completion":" yes"}
+{"prompt":"What is the recently prescribed medication for patient 10004733 today compared to yesterday? ->","completion":" yes"}
+{"prompt":"What is the code that corresponds to icd-11 for ac dvt\/emb distl low ext in icd-10? ->","completion":" no"}
+{"prompt":"Tell me the maximum total hospital cost that includes cefpodoxime proxetil in 2100? ->","completion":" yes"}
+{"prompt":"When was the first time the arterial blood pressure systolic of patient 10018081 was measured on this ICU encounter at less than 100.0? ->","completion":" yes"}
+{"prompt":"How many patients had a glucose, pleural lab test? ->","completion":" yes"}
+{"prompt":"What is the blood type of patient 32168? ->","completion":" no"}
+{"prompt":"When was the last time that patient 10007058 was prescribed medication since 03\/2100 via the po route? ->","completion":" yes"}
+{"prompt":"Which drug was the last one prescribed for patient 10037861 since 07\/2100? ->","completion":" yes"}
+{"prompt":"Patient 10009628's age during their last hospital visit was what? ->","completion":" yes"}
+{"prompt":"When was the first time patient 10004422 was prescribed a medication in 01\/this year via the pr route? ->","completion":" yes"}
+{"prompt":"Give me the top three most frequent procedures that patients were given within the same hospital visit after receiving parenteral infusion of concentrated nutritional substances in 2100. ->","completion":" yes"}
+{"prompt":"What are the four most frequently given diagnoses for patients who had previously had bypass coronary artery, one artery from left internal mammary, open approach during the same month, throughout this year? ->","completion":" yes"}
+{"prompt":"How long did patient 26286 have to undergo contr cerebr arteriogram? ->","completion":" no"}
+{"prompt":"How many patients were administered ipratropium bromide neb? ->","completion":" yes"}
+{"prompt":"Tell me the number of patients diagnosed with personal history of sudden cardiac arrest since 2100. ->","completion":" yes"}
+{"prompt":"Tell me the name of the specimen test that patient 10009049 first received since 02\/2100? ->","completion":" yes"}
+{"prompt":"What are the five most common prescriptions in 2100? ->","completion":" yes"}
+{"prompt":"What was the total number of input patient 10020944 has received on 03\/07\/this year? ->","completion":" yes"}
+{"prompt":"Could you tell me the maximum total cost in a hospital where potassium chl 20 meq \/ 1000 ml ns is used during this year? ->","completion":" yes"}
+{"prompt":"What are the five most frequently administered laboratory tests for patients previously diagnosed with methicillin susceptible staphylococcus aureus infection as the cause of diseases classified elsewhere in the same month, in 2100? ->","completion":" yes"}
+{"prompt":"When was the last time the arterial blood pressure mean of patient 10021118 was greater than 74.0, on this month\/05? ->","completion":" yes"}
+{"prompt":"Can I know the total output amount for patient 10014078 since 172 days ago? ->","completion":" yes"}
+{"prompt":"List the top five most frequent diagnoses that patients were diagnosed with within 2 months after receiving diagnostic ultrasound of digestive system since 2100. ->","completion":" yes"}
+{"prompt":"What is the minimum monthly number of cases for unspecified atrial flutter? ->","completion":" yes"}
+{"prompt":"What was the minimum value of patient 10014729's protein in 03\/2100? ->","completion":" yes"}
+{"prompt":"When is the earliest of patient 7400's next visit to other departments? ->","completion":" no"}
+{"prompt":"When were patient 10007795 last prescribed for gemfibrozil and heparin at the same time in 05\/this year? ->","completion":" yes"}
+{"prompt":"Tell me the name of the drug which patient 10022041 was prescribed in the same day after having had a open reduction of fracture with internal fixation, humerus procedure since 03\/2100? ->","completion":" yes"}
+{"prompt":"During the last hospital encounter, what was the insurance plan of patient 10007795? ->","completion":" yes"}
+{"prompt":"When was the last time patient 10020944 measured its respiratory rate less than 21.0 since 348 days ago? ->","completion":" yes"}
+{"prompt":"What is the reimbursement standard for gene and chromosome testing? ->","completion":" no"}
+{"prompt":"Is the pt value of patient 10018081 second measured on the current hospital visit greater than the value from the first measurement on the current hospital visit? ->","completion":" yes"}
+{"prompt":"Since 16 months ago, what was the monthly maximum dose of packed red blood cells for patient 10021487? ->","completion":" yes"}
+{"prompt":"How much does patient 10004422 change in weight last measured on the last hospital visit compared to the second to last value measured on the last hospital visit? ->","completion":" yes"}
+{"prompt":"What was the first drug that was prescribed to patient 10027602 during this month via the po\/ng route? ->","completion":" yes"}
+{"prompt":"When was first time the heart rate of patient 10027602 was greater than 63.0 during their first ICU visit? ->","completion":" yes"}
+{"prompt":"In 2100, how many patients underwent a venous catheterization, not elsewhere classified in the same month after the diagnosis of hepatic encephalopathy? ->","completion":" yes"}
+{"prompt":"Could you list the five most common specimen tests carried out throughout this year? ->","completion":" yes"}
+{"prompt":"What drug was prescribed to patient 10005817 for the last time since 12\/2100? ->","completion":" yes"}
+{"prompt":"What are the five frequently tested specimens for patients that received insertion of intraluminal device into inferior vena cava, percutaneous approach previously within the same hospital visit since 2100? ->","completion":" yes"}
+{"prompt":"How many current patients are there in the 60 or above age group? ->","completion":" yes"}
+{"prompt":"Was a procedure performed on patient 10015860 during the previous year? ->","completion":" yes"}
+{"prompt":"Can you tell me when the last microbiology test for patient 10037975 was held since 29 months ago? ->","completion":" yes"}
+{"prompt":"Get me the top four most frequent diagnoses for patients of age 40s since 1 year ago. ->","completion":" yes"}
+{"prompt":"What is the number of drugs patient 10019172 was prescribed in 2100? ->","completion":" yes"}
+{"prompt":"What was the total amount of polyethylene glycol prescribed to patient 10037861 since 08\/2100? ->","completion":" yes"}
+{"prompt":"How much is the difference of basophils of patient 10038992 last measured on the first hospital visit compared to the first value measured on the first hospital visit? ->","completion":" yes"}
+{"prompt":"What was the minimum value of arterial blood pressure mean for patient 10008454 on 12\/02\/2100? ->","completion":" yes"}
+{"prompt":"How much is the cost of the acute and subacute hepatic failure without coma diagnosing? ->","completion":" yes"}
+{"prompt":"What were the four most commonly performed lab tests for patients who were previously diagnosed with other primary cardiomyopathies within 2 months, since 2100? ->","completion":" yes"}
+{"prompt":"What was patient 10007818's weight the last time it was measured since 8 months ago? ->","completion":" yes"}
+{"prompt":"What's the alkaline phosphatase change of patient 10021938 last measured on the first hospital visit compared to the first value measured on the first hospital visit? ->","completion":" yes"}
+{"prompt":"What is the total number of patients who were discharged from the hospital since 2100? ->","completion":" yes"}
+{"prompt":"During their last hospital encounter, when did patient 10023239 last receive a calcium, total test? ->","completion":" yes"}
+{"prompt":"Has there been any diagnosis that patient 10004733 has received in 2100? ->","completion":" yes"}
+{"prompt":"What was the name of the medication that patient 10040025 was prescribed in the same hospital visit after receiving a arteriography of renal arteries procedure? ->","completion":" yes"}
+{"prompt":"What was the last hospital discharge time for patient 10022017 since 2100? ->","completion":" yes"}
+{"prompt":"What are the top four most common microbiology tests that patients were diagnosed with after the diagnosis of spinal stenosis, lumbar region, without neurogenic claudication within the same hospital visit? ->","completion":" yes"}
+{"prompt":"List the top three most common events since 2100. ->","completion":" yes"}
+{"prompt":"What were the top four diagnoses of patients with age 30s since 1 year ago? ->","completion":" yes"}
+{"prompt":"When was patient 10013049's last input on the last ICU stay? ->","completion":" yes"}
+{"prompt":"How much glyburide has patient 10015860 been prescribed in 10\/this year? ->","completion":" yes"}
+{"prompt":"In relation to others of the same age, where does a urea nitrogen value of 11.0 for patient 10023117 rank in percentiles on their last hospital encounter? ->","completion":" yes"}
+{"prompt":"What was patient 10027602's average value of mch in 11\/2100? ->","completion":" yes"}
+{"prompt":"During the last year, how many extirpation of matter from left lower lung lobe, via natural or artificial opening endoscopic procedures were conducted? ->","completion":" yes"}
+{"prompt":"Give me the top three most commonly prescribed medications. ->","completion":" yes"}
+{"prompt":"What medication was prescribed for the last time since 04\/2100 to patient 10015931? ->","completion":" yes"}
+{"prompt":"Could you inform me about patient 10020187's last arterial blood pressure systolic on 02\/04\/this year? ->","completion":" yes"}
+{"prompt":"What was the total amount of furosemide that they prescribed to patient 10037861? ->","completion":" yes"}
+{"prompt":"What is patient 10027445's sex? ->","completion":" yes"}
+{"prompt":"How often was morphine sulfate (oral solution) 2 mg\/ml prescribed since 2100? ->","completion":" yes"}
+{"prompt":"When did patient 10020944 get input on the first ICU stay for the first time? ->","completion":" yes"}
+{"prompt":"Since 10\/2100, when did patient 10038992 last get prescribed vitamin d and felodipine at the same time? ->","completion":" yes"}
+{"prompt":"How was patient 10020187 admitted in terms of admission type for the last time at the hospital during this year? ->","completion":" yes"}
+{"prompt":"What are the five most frequent procedures for patients aged 60 or above since 2100? ->","completion":" yes"}
+{"prompt":"What are the four most common treatments for patients who are 50s this year? ->","completion":" yes"}
+{"prompt":"When was the first time that patient 10027602 had the maximum red blood cells value in 12\/this year? ->","completion":" yes"}
+{"prompt":"What was the name of the medication that was first prescribed to patient 10010471 since 12\/2100? ->","completion":" yes"}
+{"prompt":"Get me the top four most frequent drugs that patients were prescribed in the same month after being diagnosed with accidental cut, puncture, perforation or hemorrhage during heart catheterization in 2100. ->","completion":" yes"}
+{"prompt":"Has patient 10015860 had a lab test done since 1 year ago? ->","completion":" yes"}
+{"prompt":"What was the total number of drugs patient 10000032 was prescribed since 03\/2100? ->","completion":" yes"}
+{"prompt":"What is the total number of patients discharged from the hospital in the last year? ->","completion":" yes"}
+{"prompt":"What was the first iron value during the first hospital visit for patient 10039708? ->","completion":" yes"}
+{"prompt":"What's the maximum total cost of a hospital that involves suicidal ideation? ->","completion":" yes"}
+{"prompt":"Can you tell me the first recorded weight for patient 10015272? ->","completion":" yes"}
+{"prompt":"Show me the length of time patient 10031757 was in the ICU during the last visit. ->","completion":" yes"}
+{"prompt":"What was the last time of patient 10027602 mini-bal microbiology test since 03\/2100? ->","completion":" yes"}
+{"prompt":"Tell me the five most frequent medical diagnoses throughout this year. ->","completion":" yes"}
+{"prompt":"Has patient 10020740 been treated with a parenteral infusion of concentrated nutritional substances procedure? ->","completion":" yes"}
+{"prompt":"What was the name of the output which patient 10018081 had last had since 10\/31\/2100? ->","completion":" yes"}
+{"prompt":"When was the first time that on their first hospital visit patient 10026255 had the maximum of platelet count? ->","completion":" yes"}
+{"prompt":"Does patient 57050 have a past overseas travel experience? ->","completion":" no"}
+{"prompt":"What were the five most frequent microbiology tests that occurred in this year? ->","completion":" yes"}
+{"prompt":"How many mupirocin cream 2% prescriptions took place? ->","completion":" yes"}
+{"prompt":"During the first hospital encounter, was patient 10008454 admitted to an emergency room? ->","completion":" yes"}
+{"prompt":"Can you show me the top three most frequent lab tests since 2100? ->","completion":" yes"}
+{"prompt":"Tell me the average total hospital cost that includes dissection of abdominal aorta. ->","completion":" yes"}
+{"prompt":"What steps should i take before the drsl\/dslmb fus post\/post procedure? ->","completion":" no"}
+{"prompt":"Has patient 10037861 been given a diagnosis in 2100? ->","completion":" yes"}
+{"prompt":"What were the top four diagnoses that had the highest 6-month mortality rate? ->","completion":" yes"}
+{"prompt":"What did patient 10018845 have last as the output since 279 days ago? ->","completion":" yes"}
+{"prompt":"What were the top four most common specimens tested on patients in the same hospital encounter after the diagnosis of suicidal ideation? ->","completion":" yes"}
+{"prompt":"What's the maximum total cost of a hospital that involves a procedure called closed [percutaneous] [needle] biopsy of kidney? ->","completion":" yes"}
+{"prompt":"When was patient 10021118's last microbiological examination since 06\/2100? ->","completion":" yes"}
+{"prompt":"What drug was prescribed to patient 10010471 for the last time in the first hospital encounter? ->","completion":" yes"}
+{"prompt":"Does patient 10211 have an appointment in other department? ->","completion":" no"}
+{"prompt":"What is the name of the diagnosis that patient 30267 received from the other department? ->","completion":" no"}
+{"prompt":"What exactly was the first drug that patient 10038992 was prescribed? ->","completion":" yes"}
+{"prompt":"In 2100, what are the top three most common lab tests ordered for patients during the same month after acute and subacute necrosis of liver? ->","completion":" yes"}
+{"prompt":"How many patients were diagnosed in 2100 with intestinal infection due to other organism, not elsewhere classified? ->","completion":" yes"}
+{"prompt":"What are the five most frequently ordered medications that patients in their 60 or above were prescribed within 2 months after being diagnosed with abnormal coagulation profile in 2100? ->","completion":" yes"}
+{"prompt":"Show me the top five most common diagnoses of patients with age 30s in 2100. ->","completion":" yes"}
+{"prompt":"How many patients were discharged from the hospital in 2100? ->","completion":" yes"}
+{"prompt":"What diagnosis did patient 10005866 have last in the first hospital visit? ->","completion":" yes"}
+{"prompt":"How many patients were diagnosed with acute post-thoracotomy pain within 2 months after first being diagnosed with accidents occurring in residential institution in 2100? ->","completion":" yes"}
+{"prompt":"How is readi-cat 2 (barium sulfate 2% suspension) typically consumed? ->","completion":" yes"}
+{"prompt":"Calculate the number of patients with other ventral hernia without mention of obstruction or gangrene who were diagnosed. ->","completion":" yes"}
+{"prompt":"Can you tell me the name of the diagnosis patient 10019568 received last since 2100? ->","completion":" yes"}
+{"prompt":"What was the medication patient 10005817 was prescribed for the last time on the last hospital encounter via the ng route? ->","completion":" yes"}
+{"prompt":"Did patient 10018423 have a performance of cardiac output, continuous procedure on the first hospital stay? ->","completion":" yes"}
+{"prompt":"What's the cost to get replacement of stent (tube) in biliary or pancreatic duct? ->","completion":" yes"}
+{"prompt":"When was the last test of patient 10020740's microbiology stool in 03\/2100? ->","completion":" yes"}
+{"prompt":"What is patient 10004235's minimum value of atypical lymphocytes in 03\/2100? ->","completion":" yes"}
+{"prompt":"Has patient 10026406 been to the er since 2100? ->","completion":" yes"}
+{"prompt":"What was the name of the drug that was prescribed first to patient 10022017 since 04\/2100? ->","completion":" yes"}
+{"prompt":"How many people were diagnosed with amyotrophic lateral sclerosis throughout this year? ->","completion":" yes"}
+{"prompt":"Calculate the number of ICU visits for patient 10009628 last year. ->","completion":" yes"}
+{"prompt":"How many patients received a globulin lab test since 2100? ->","completion":" yes"}
+{"prompt":"How many hours elapsed since the last time patient 10004733 received a urobilinogen lab test on this hospital visit? ->","completion":" yes"}
+{"prompt":"For patient 10016742, what were the last mch lab results in 07\/2100? ->","completion":" yes"}
+{"prompt":"What were the most frequent diagnoses among the top three throughout this year? ->","completion":" yes"}
+{"prompt":"What is patient 10029291's difference in fibrinogen, functional from the last value measured on the first hospital visit compared to the first value measured on the first hospital visit? ->","completion":" yes"}
+{"prompt":"Can you get me the top four diagnoses that have the highest 6-month mortality rate? ->","completion":" yes"}
+{"prompt":"Retrieve the top four most frequent procedures that were delivered to patients within 2 months after they received other laparoscopic umbilical herniorrhaphy in 2100. ->","completion":" yes"}
+{"prompt":"What would the average yearly number of patients diagnosed with coronary atherosclerosis of autologous vein bypass graft be since 2100? ->","completion":" yes"}
+{"prompt":"Tell me the protocol of anticancer drugs? ->","completion":" no"}
+{"prompt":"Can you tell me the cost for the procedure called extracorporeal circulation auxiliary to open heart surgery? ->","completion":" yes"}
+{"prompt":"How many times was other excision or destruction of lesion or tissue of pancreas or pancreatic duct carried out since 2100? ->","completion":" yes"}
+{"prompt":"What was the drug prescribed to patient 10016150 for the last time since 04\/2100 via the im route? ->","completion":" yes"}
+{"prompt":"What are the three most frequently taken specimens for patients diagnosed with traumatic shock previously during the same hospital visit, since 1 year ago? ->","completion":" yes"}
+{"prompt":"Among patients who underwent other electroshock therapy this year, what were the top five diagnoses they received within 2 months? ->","completion":" yes"}
+{"prompt":"What was the name of the medicine prescribed to patient 10027445 for the first time in 08\/this year? ->","completion":" yes"}
+{"prompt":"Can you tell me when patient 10008454's last microbiology test was since 5 months ago? ->","completion":" yes"}
+{"prompt":"Tell me the count of phlebography of the portal venous system using contrast material procedures that took place since 2100. ->","completion":" yes"}
+{"prompt":"How much furosemide has been prescribed to patient 10027445 in 08\/this year in total? ->","completion":" yes"}
+{"prompt":"Retrieve the top five most common diagnoses for patients with age 50s this year. ->","completion":" yes"}
+{"prompt":"Count the number of people who were diagnosed with other disorders of muscle, ligament, and fascia since 2100. ->","completion":" yes"}
+{"prompt":"What are the five most common laboratory tests undertaken by patients during the same hospital visit following a diagnosis of other cirrhosis of liver? ->","completion":" yes"}
+{"prompt":"Has any dextrose 50% been given to patient 10016742 since 20 months ago? ->","completion":" yes"}
+{"prompt":"Can you tell me the name of the last output of patient 10004235? ->","completion":" yes"}
+{"prompt":"When was patient 10006053's respiratory rate last measured greater than 17.0? ->","completion":" yes"}
+{"prompt":"Show me patient 10038081's total tap output since 10\/06\/2100. ->","completion":" yes"}
+{"prompt":"What are the three most common specimen tests that occurred since 2100? ->","completion":" yes"}
+{"prompt":"Has patient 10007818 undergone a insertion of endotracheal airway into trachea, via natural or artificial opening since 2100? ->","completion":" yes"}
+{"prompt":"What the proccedural of the drugs against cancer is? ->","completion":" no"}
+{"prompt":"What was the name of the organism that was found during the last mini-bal test of patient 10021487 since 11\/2100? ->","completion":" yes"}
+{"prompt":"Tell me all the prescriptions that patient 83062 received at the other department. ->","completion":" no"}
+{"prompt":"Has patient 10008454 acquired any medication since 10\/2100? ->","completion":" yes"}
+{"prompt":"Is patient 10006580's hematocrit second measured on the first hospital visit less than the first value measured on the first hospital visit? ->","completion":" yes"}
+{"prompt":"How many operating rooms are in operation now? ->","completion":" no"}
+{"prompt":"When did patient 10007818 first have their minimum heart rate on 07\/03\/2100? ->","completion":" yes"}
+{"prompt":"What were the top four most frequent diagnoses that followed within 2 months for those patients who received percutaneous abdominal drainage? ->","completion":" yes"}
+{"prompt":"How old was patient 10023117 during their first hospital encounter? ->","completion":" yes"}
+{"prompt":"What is the cost for the procedure right heart cardiac catheterization? ->","completion":" yes"}
+{"prompt":"When was the last microbiological test of patient 10022281 since 06\/2100? ->","completion":" yes"}
+{"prompt":"What is today's outpatient schedule for dr. gaylor? ->","completion":" no"}
+{"prompt":"When was the first time of input for patient 10038999 on 06\/05\/this year? ->","completion":" yes"}
+{"prompt":"What was the first reticulocyte count, automated value during the last month for patient 10039708? ->","completion":" yes"}
+{"prompt":"What is the maximum total cost of a hospital visit that includes injection of anesthetic into spinal canal for analgesia in 2100? ->","completion":" yes"}
+{"prompt":"What's the minimum daily number of patients who were diagnosed with essential and other specified forms of tremor in 2100? ->","completion":" yes"}
+{"prompt":"How many prescriptions were prescribed since 1 year ago for pseudoephedrine? ->","completion":" yes"}
+{"prompt":"Can you show me the top five most common procedures conducted? ->","completion":" yes"}
+{"prompt":"What was the name of the organism found in patient 10019172's last urine microbiological test? ->","completion":" yes"}
+{"prompt":"What is the number of patients who were discharged from the hospital? ->","completion":" yes"}
+{"prompt":"Show me the top five most common treatments for patients aged 20s since 2100. ->","completion":" yes"}
+{"prompt":"What are the four most often performed treatments for patients aged 20s in 2100? ->","completion":" yes"}
+{"prompt":"How many mupirocin nasal ointment 2% prescriptions took place in 2100? ->","completion":" yes"}
+{"prompt":"What are the five most frequently tested specimens for patients that received other incision of brain previously within 2 months in 2100? ->","completion":" yes"}
+{"prompt":"What are the four commonly ordered medications for patients who were diagnosed with other and unspecified alcohol dependence, in remission previously during the same hospital encounter, since 2100? ->","completion":" yes"}
+{"prompt":"Can you tell me the average total hospital cost that involves lactated ringers this year? ->","completion":" yes"}
+{"prompt":"What are the five most frequently ordered laboratory tests this year? ->","completion":" yes"}
+{"prompt":"For patients previously diagnosed with compression of vein in 2100, what were the four most frequent specimens tested during the same hospital visit afterward? ->","completion":" yes"}
+{"prompt":"How many days have it been since patient 10021487 had received a mch laboratory test during this hospital visit for the first time? ->","completion":" yes"}
+{"prompt":"What was the organism detected in patient 10021487's last blood culture microbiology test since 12\/2100? ->","completion":" yes"}
+{"prompt":"When was the first time that patient 10021487 was tested for red blood cells in 12\/2100? ->","completion":" yes"}
+{"prompt":"What was the time of patient 10029291's last blood culture microbiology test in 02\/2100? ->","completion":" yes"}
+{"prompt":"How many days has it been since the first rhabdomyolysis diagnosis of patient 10021487 on the current hospital encounter? ->","completion":" yes"}
+{"prompt":"I would like to know all of the prescriptions patient 21003 received at the other department. ->","completion":" no"}
+{"prompt":"Retrieve the top five most frequent lab tests that patients had after being diagnosed with noncompliance with renal dialysis in the same hospital visit since 2100. ->","completion":" yes"}
+{"prompt":"Has there been any organism observed in patient 10007795's last blood culture ( myco\/f lytic bottle) microbiology test on the first hospital visit? ->","completion":" yes"}
+{"prompt":"After getting diagnosed with acute on chronic diastolic heart failure, how many patients were found to have postinflammatory pulmonary fibrosis within 2 months in 2100? ->","completion":" yes"}
+{"prompt":"Has patient 10025612 taken a packed red blood cells drug in 12\/last year? ->","completion":" yes"}
+{"prompt":"What was the total amount of the output patient 10004733 had since 11\/25\/2100? ->","completion":" yes"}
+{"prompt":"...when was the last time that patient 60219 had a medication that should be taken regularly? ->","completion":" no"}
+{"prompt":"What is the total count of performance of cardiac output, continuous procedures that were done since 1 year ago? ->","completion":" yes"}
+{"prompt":"What drug was first prescribed to patient 10021938? ->","completion":" yes"}
+{"prompt":"List the top three most common events this year. ->","completion":" yes"}
+{"prompt":"Tell me the last output of patient 10005909 since 269 days ago? ->","completion":" yes"}
+{"prompt":"During their first hospital encounter, what was the diagnosis for patient 10004720 the first time? ->","completion":" yes"}
+{"prompt":"Give me patient 10023239's total d5lr input since 230 days ago. ->","completion":" yes"}
+{"prompt":"What's the minimum total cost of the hospital that involves a procedure called cardiac mapping throughout this year? ->","completion":" yes"}
+{"prompt":"How many patients were diagnosed with unspecified essential hypertension during the same hospital visit after the previous diagnosis with aortic valve disorders? ->","completion":" yes"}
+{"prompt":"During their first hospital visit, what was the insurance of patient 10011398? ->","completion":" yes"}
+{"prompt":"What are the top three most frequently prescribed drugs throughout this year? ->","completion":" yes"}
+{"prompt":"What was the last time of input of patient 10027602 on last month\/28? ->","completion":" yes"}
+{"prompt":"What was the name of the organism discovered in the first fluid,other test of patient 10021487 since 9 months ago? ->","completion":" yes"}
+{"prompt":"Retrieve the top five most frequent lab tests that patients had after being diagnosed with ulcer of other part of foot in the same month since 1 year ago. ->","completion":" yes"}
+{"prompt":"Can you show me the drug that patient 10016150 was last prescribed in their last hospital visit? ->","completion":" yes"}
+{"prompt":"Has patient 10026255 acquired any medication since 10\/2100? ->","completion":" yes"}
+{"prompt":"When did patient 10018081 have a first metamyelocytes laboratory test in 12\/this year? ->","completion":" yes"}
+{"prompt":"What is the name of a procedure patient 10038081 underwent two or more times since 07\/2100? ->","completion":" yes"}
+{"prompt":"When was the first time that patient 10021487 had the minimum value of heart rate on 12\/10\/this year? ->","completion":" yes"}
+{"prompt":"Since 02\/2100, when was patient 10021312's first microbiology test? ->","completion":" yes"}
+{"prompt":"How many patients underwent transcatheter embolization for gastric or duodenal bleeding within the same month after the diagnosis of other specified hypotension? ->","completion":" yes"}
+{"prompt":"Give me the total amount of output since 11\/16\/2100 for patient 10010471. ->","completion":" yes"}
+{"prompt":"Has patient 10020306 been treated with a unilateral simple mastectomy procedure since 1 year ago? ->","completion":" yes"}
+{"prompt":"What was the name of the last specimen test which patient 10027602 has received since 02\/2100? ->","completion":" yes"}
+{"prompt":"Tell me about the most common five output events since 2100. ->","completion":" yes"}
+{"prompt":"How much was the difference in weight of patient 10038081 second measured on the last hospital visit compared to the first value measured on the last hospital visit? ->","completion":" yes"}
+{"prompt":"Calculate the number of people who had other and unspecified pneumonectomy in 2100. ->","completion":" yes"}
+{"prompt":"Number of patients who were given a drainage of left pleural cavity, percutaneous approach procedure since 1 year ago. ->","completion":" yes"}
+{"prompt":"Has patient 10022880 entered the hospital since 1 year ago? ->","completion":" yes"}
+{"prompt":"Tell me the total input for patient 10004733 yesterday. ->","completion":" yes"}
+{"prompt":"What were the top three most common microbiology tests for patients who were previously diagnosed with neoplasm of unspecified nature of endocrine glands and other parts of nervous system within the same hospital visit since 1 year ago? ->","completion":" yes"}
+{"prompt":"Tell me the count of the drugs patient 10021118 was prescribed in 11\/2100. ->","completion":" yes"}
+{"prompt":"What was the last dose of nifedipine in 11\/2100, prescribed to patient 10021938? ->","completion":" yes"}
+{"prompt":"What were the five most commonly performed lab tests for patients who were previously diagnosed with other diseases of bronchus, not elsewhere classified in the same hospital encounter, since 2100? ->","completion":" yes"}
+{"prompt":"Which are the five most commonly taken lab tests since 2100? ->","completion":" yes"}
+{"prompt":"When did the first input for patient 10021487 occur since 12\/19\/2100? ->","completion":" yes"}
+{"prompt":"What are three of the most frequent specimens taken since 1 year ago? ->","completion":" yes"}
+{"prompt":"In 2100, what are the top four most frequently tested specimens for patients during the same month after receiving introduction of other therapeutic substance into heart, open approach? ->","completion":" yes"}
+{"prompt":"What was patient 10007058's first tested specimen in 11\/this year? ->","completion":" yes"}
+{"prompt":"Provide the top four most frequent diagnoses that patients were assigned within 2 months after receiving respiratory ventilation, greater than 96 consecutive hours. ->","completion":" yes"}
+{"prompt":"Give me patient 10025612's total amount of or crystalloid intake input. ->","completion":" yes"}
+{"prompt":"When was the first time that patient 10016150 has been prescribed acetaminophen and glucagon at the same time in 05\/this year? ->","completion":" yes"}
+{"prompt":"What's the rank of the top three most common output events since 2100? ->","completion":" yes"}
+{"prompt":"Count the number of patients who received dilation of left external iliac vein with intraluminal device, percutaneous approach within 2 months after being diagnosed with operating room of hospital as the place of occurrence of the external cause in the last year. ->","completion":" yes"}
+{"prompt":"List the top five most frequent specimens that patients were tested within 2 months after receiving percutaneous [endoscopic] gastrostomy [peg]. ->","completion":" yes"}
+{"prompt":"Show me the top four diagnoses with the highest 6-month mortality rate. ->","completion":" yes"}
+{"prompt":"What's the count of patients who left the hospital? ->","completion":" yes"}
+{"prompt":"Has patient 10001217 got a l laboratory test this year? ->","completion":" yes"}
+{"prompt":"What are the prices for the drug called vitamin e? ->","completion":" yes"}
+{"prompt":"How much metronidazole (flagyl) had been prescribed to patient 10001217 in total in 12\/2100? ->","completion":" yes"}
+{"prompt":"Can you tell me about patient 10016150's age in the last hospital visit? ->","completion":" yes"}
+{"prompt":"Which procedure was performed on patient 10016742 two times since 03\/2100? ->","completion":" yes"}
+{"prompt":"For the first time since 07\/2100, what specimen test did patient 10038992 get? ->","completion":" yes"}
+{"prompt":"Did patient 10027602 take a gt flush medication on 12\/06\/2100? ->","completion":" yes"}
+{"prompt":"What is the ward id where patient 5828 can be admitted? ->","completion":" no"}
+{"prompt":"What are the top three most frequent microbiology tests? ->","completion":" yes"}
+{"prompt":"Since 2100, what are the top three most common microbiology tests that patients were diagnosed with after the diagnosis of esophageal varices in diseases classified elsewhere, with bleeding within 2 months? ->","completion":" yes"}
+{"prompt":"Did patient 68280 experience side effects during a blood transfusion? ->","completion":" no"}
+{"prompt":"What are the four commonly given procedures for patients that also received reposition left mandible with external fixation device, percutaneous approach previously within 2 months, since 2100? ->","completion":" yes"}
+{"prompt":"Tell me the number of patients who were prescribed ferric gluconate since 2100. ->","completion":" yes"}
+{"prompt":"What would the maximum yearly number of patients diagnosed with catatonic type schizophrenia, unspecified be since 2100? ->","completion":" yes"}
+{"prompt":"Could you list the daily average dextrose 5% input of patient 10039831 on this ICU visit? ->","completion":" yes"}
+{"prompt":"What was the last arterial blood pressure systolic in patient 10020187's body on 02\/04\/2100? ->","completion":" yes"}
+{"prompt":"What are the ways to consume metformin (glucophage)? ->","completion":" yes"}
+{"prompt":"When was the first time patient 10018081 o2 saturation pulseoxymetry was measured greater than 98.0 yesterday. ->","completion":" yes"}
+{"prompt":"Has patient 10007058 got a lab test during this year? ->","completion":" yes"}
+{"prompt":"Give me patient 10021487's total peptamen bariatric (full) input. ->","completion":" yes"}
+{"prompt":"What is the recently prescribed medication for patient 10039831 today compared to yesterday? ->","completion":" yes"}
+{"prompt":"What are the four most commonly tested specimens for patients who were diagnosed with chronic lymphocytic leukemia of b-cell type not having achieved remission previously in the same month, in 2100? ->","completion":" yes"}
+{"prompt":"On the last ICU visit, did patient 10016742 have any input of gastric meds? ->","completion":" yes"}
+{"prompt":"What percentile is mchc 32.2 among patients of the same age as patient 10027602 during their first hospital encounter? ->","completion":" yes"}
+{"prompt":"Did patient 10022041 experience any procedure on the first hospital stay? ->","completion":" yes"}
+{"prompt":"What are the immuno-cancer drugs that have been on for the last 5 years. ->","completion":" no"}
+{"prompt":"Has patient 10008287 been ordered acetaminophen iv, dexamethasone, or heparin in 04\/last year? ->","completion":" yes"}
+{"prompt":"What was the maximum value of lymphocytes in patient 10016742's body in 07\/2100? ->","completion":" yes"}
+{"prompt":"How many patients since 1 year ago were diagnosed with mitral valve disorders within the same month after the diagnosis of alkalosis? ->","completion":" yes"}
+{"prompt":"When did patient 10038999 have the mesothelial cells lab test for the first time in 06\/2100? ->","completion":" yes"}
+{"prompt":"What are the top four most common specimens tested for patients previously diagnosed with traumatic shock within 2 months? ->","completion":" yes"}
+{"prompt":"When did patient 10005817 get the glucose lab test in their last hospital encounter for the first time? ->","completion":" yes"}
+{"prompt":"What were the three most common tests conducted on specimens throughout this year? ->","completion":" yes"}
+{"prompt":"Let me know the total quantity of input patient 10027602 received on last month\/24. ->","completion":" yes"}
+{"prompt":"Has patient 10006053 had a lab test for basophils since 2100? ->","completion":" yes"}
+{"prompt":"What methods are used to ingest emtricitabine-tenofovir (truvada)? ->","completion":" yes"}
+{"prompt":"What was the drug that was last prescribed to patient 10019568 via the ivpca route in the first hospital visit? ->","completion":" yes"}
+{"prompt":"Tell me the top three most common specimens tested. ->","completion":" yes"}
+{"prompt":"Was patient 10037861 provided with any medication on the first hospital visit? ->","completion":" yes"}
+{"prompt":"Has acetaminophen, lidocaine 0.5%, or soln been prescribed for patient 10007928? ->","completion":" yes"}
+{"prompt":"How much is the average total hospital bill when it includes a % hemoglobin a1c lab test in 2100? ->","completion":" yes"}
+{"prompt":"What are patient 10037861's changes in ph last measured on the last hospital visit compared to the second to last value measured on the last hospital visit? ->","completion":" yes"}
+{"prompt":"How much difference is there in creatinine levels among patient 10021938 last measured on the first hospital visit compared to the value first measured on the first hospital visit? ->","completion":" yes"}
+{"prompt":"On the current hospital visit, how many hours have passed since patient 10004733's first diagnosis of blood in stool? ->","completion":" yes"}
+{"prompt":"Since 1 year ago, has patient 10022041 been to an emergency room? ->","completion":" yes"}
+{"prompt":"What is the total number of days that have passed since patient 10021487's first bilirubin, total, body fluid lab test during this hospital visit? ->","completion":" yes"}
+{"prompt":"What is today's outpatient schedule for dr. knight? ->","completion":" no"}
+{"prompt":"Has patient 7112 had a family history of a disease? ->","completion":" no"}
+{"prompt":"What is the minimum total hospital cost for a patient suffering from collapsed vertebra, not elsewhere classified, thoracic region, initial encounter for fracture in 2100? ->","completion":" yes"}
+{"prompt":"What was the first time patient 10017492 received vitamin b12 in a lab test on the first hospital visit? ->","completion":" yes"}
+{"prompt":"For patients diagnosed with other specified retention of urine before, what are the top five most common treatments in the same hospital visit? ->","completion":" yes"}
+{"prompt":"Patient 10009628's hyaline casts second measured on the last hospital visit is less than the first value measured on the last hospital visit? ->","completion":" yes"}
+{"prompt":"What is the average total expenditure of a hospital that involves the medication miconazole nitrate vag cream 2% during this year? ->","completion":" yes"}
+{"prompt":"What are the top five most frequently performed procedures for patients who are 30s? ->","completion":" yes"}
+{"prompt":"Tell me the average total hospital cost that includes ritonavir in 2100? ->","completion":" yes"}
+{"prompt":"What are the five most frequently given lab tests for patients that were diagnosed with family history of malignant neoplasm of breast previously during the same hospital visit, in 2100? ->","completion":" yes"}
+{"prompt":"Do you know what type of blood patient 98517 has? ->","completion":" no"}
+{"prompt":"Has patient 10012552 been diagnosed with any type of disease since 1 year ago? ->","completion":" yes"}
+{"prompt":"Has any medication been prescribed to patient 10020786 since 07\/2100? ->","completion":" yes"}
+{"prompt":"How was patient 10020944 admitted to the hospital in 2100 in terms of admission type for the first time? ->","completion":" yes"}
+{"prompt":"Has there been a mch lab test performed on patient 10022281 since 2100? ->","completion":" yes"}
+{"prompt":"On the first hospital stay, what was the insurance plan of patient 10006580? ->","completion":" yes"}
+{"prompt":"Does patient 13473 have a report of stricture of artery in his \/ her family? ->","completion":" no"}
+{"prompt":"How many days have passed since patient 10018081's first hematocrit laboratory test on this hospital stay? ->","completion":" yes"}
+{"prompt":"Among patients aged 30s since 2100, what are the top three most common diagnoses? ->","completion":" yes"}
+{"prompt":"What is patient 10018328's minimum value of urea nitrogen, urine during the first hospital visit? ->","completion":" yes"}
+{"prompt":"On 05\/21\/2100, when was the last input time of patient 10018423? ->","completion":" yes"}
+{"prompt":"When did patient 10005348 first get sputum microbial tests in the last hospital visit? ->","completion":" yes"}
+{"prompt":"How many days elapsed since patient 10004733 received his red blood cells lab test for the last time in the current hospital visit? ->","completion":" yes"}
+{"prompt":"What was the amount of insulin prescribed to patient 10020740 in total in 05\/2100? ->","completion":" yes"}
+{"prompt":"Tell me the name of the last specimen test patient 10014354 had received since 10\/2100. ->","completion":" yes"}
+{"prompt":"What is the average total cost of a hospital, which includes a drug called lactulose since 2100? ->","completion":" yes"}
+{"prompt":"Can you provide the name of the drug that was prescribed to patient 10022017 within 2 days post bypass coronary artery, three arteries from aorta with autologous venous tissue, open approach procedure in the last hospital visit? ->","completion":" yes"}
+{"prompt":"How many people got prescriptions for adde since 2100? ->","completion":" yes"}
+{"prompt":"What are the three most ordered lab tests since 1 year ago? ->","completion":" yes"}
+{"prompt":"Existe-t-il a genetic test that is recieved by patient 54700? ->","completion":" no"}
+{"prompt":"What was the total output that patient 10020786 had since 07\/01\/2100? ->","completion":" yes"}
+{"prompt":"When was the first time patient 10020187 was measured arterial blood pressure mean less than 91.0 on 02\/03\/this year? ->","completion":" yes"}
+{"prompt":"What is the pricing for 0.9% sodium chloride? ->","completion":" yes"}
+{"prompt":"Can you provide me the monthly minimum amount of or cell saver intake that patient 10035185 received? ->","completion":" yes"}
+{"prompt":"What was the name of the output patient 10015931 first had since 06\/06\/2100? ->","completion":" yes"}
+{"prompt":"What are the costs of other psoriasis diagnosis? ->","completion":" yes"}
+{"prompt":"What was the total volume of drainage bag that patient 10021487 had on this month\/16? ->","completion":" yes"}
+{"prompt":"What's the count of patients who left the hospital in this year? ->","completion":" yes"}
+{"prompt":"What is the number of patients that received a rbc, csf test during the previous year? ->","completion":" yes"}
+{"prompt":"What did patient 10018081 first have as output on 12\/31\/2100? ->","completion":" yes"}
+{"prompt":"What is the percentile of the hemoglobin value of 10.4 among patients of the same age as patient 10020740 on their first hospital encounter? ->","completion":" yes"}
+{"prompt":"Since 1 year ago, how many medications were prescribed to patient 10025612? ->","completion":" yes"}
+{"prompt":"How many patients were in med\/surg\/trauma this year? ->","completion":" yes"}
+{"prompt":"Give me the four most common microbiology tests? ->","completion":" yes"}
+{"prompt":"When was patient 10005909 prescribed a acetaminophen and oxycodone (immediate release) at the same time for the first time? ->","completion":" yes"}
+{"prompt":"When were the drugs pantoprazole and ondansetron prescribed to patient 10007928 for the first time in 04\/this year at the same time? ->","completion":" yes"}
+{"prompt":"When did patient 10038999 last receive a pleural fluid microbiology test in 06\/this year? ->","completion":" yes"}
+{"prompt":"Has patient 10016742 received any treatment of respiratory ventilation, greater than 96 consecutive hours? ->","completion":" yes"}
+{"prompt":"What is the maximum total hospital cost including a rbc, pleural lab test since 2100? ->","completion":" yes"}
+{"prompt":"What was the organism detected during the last abscess microbiology test of patient 10001217 in the last hospital visit? ->","completion":" yes"}
+{"prompt":"Does patient 65309 have a trip history overseas? ->","completion":" no"}
+{"prompt":"Today compared to yesterday, what new drugs are being prescribed to patient 10039831? ->","completion":" yes"}
+{"prompt":"What was the output of patient 10020740 for the last time on 06\/15\/this year? ->","completion":" yes"}
+{"prompt":"What is the ward id that patient 3929 can be admitted? ->","completion":" no"}
+{"prompt":"Number of patients who were diagnosed with multiple myeloma not having achieved remission. ->","completion":" yes"}
+{"prompt":"What was the name of the drug which patient 10007795 was prescribed in the same hospital visit after receiving a drainage of pancreatic cyst by catheter procedure since 04\/2100? ->","completion":" yes"}
+{"prompt":"Can you tell me the total volume of chest tube #1 output for patient 10035185 since 04\/17\/2100? ->","completion":" yes"}
+{"prompt":"When was the first time patient 10006053's heart rate was greater than 105.0 on the last ICU stay? ->","completion":" yes"}
+{"prompt":"List the top four most frequently prescribed medications since 2100. ->","completion":" yes"}
+{"prompt":"Could you tell me the first arterial blood pressure diastolic value that patient 10005817 had? ->","completion":" yes"}
+{"prompt":"What is the code in icd-11 for klebsiella pneumoniae in icd-10? ->","completion":" no"}
+{"prompt":"How many instances of the dilation of left common iliac vein with intraluminal device, percutaneous approach procedure were there during the last year? ->","completion":" yes"}
+{"prompt":"What is the minimum total cost of the hospital, which includes medicines called ampicillin sodium since 2100? ->","completion":" yes"}
+{"prompt":"What is the precautionary measure following the head & neck endarter nec procedure? ->","completion":" no"}
+{"prompt":"Retrieve the top three most frequent output occurrences since 1 year ago. ->","completion":" yes"}
+{"prompt":"What is the common method for taking lidocaine 0.5%? ->","completion":" yes"}
+{"prompt":"What was the name of the outputs that patient 10029484 last had? ->","completion":" yes"}
+{"prompt":"What was the name of the drug which patient 10027602 was prescribed in the same hospital visit after receiving a percutaneous [endoscopic] gastrostomy [peg] procedure? ->","completion":" yes"}
+{"prompt":"For the first time since 08\/2100, what specimen test did patient 10007795 get? ->","completion":" yes"}
+{"prompt":"Has patient 10006580 undergone any laboratory tests since 13 months ago? ->","completion":" yes"}
+{"prompt":"Tell me the top three most frequent procedures that patients were given within 2 months after receiving dilation of lower esophagus with intraluminal device, via natural or artificial opening endoscopic. ->","completion":" yes"}
+{"prompt":"Has there been any organism found in the first microbiological pleural fluid test of patient 10014729 since 2100? ->","completion":" yes"}
+{"prompt":"Are there any changes in the prescribed drugs of patient 10018081 today compared to yesterday? ->","completion":" yes"}
+{"prompt":"What were the top five most frequently prescribed medicines since 1 year ago? ->","completion":" yes"}
+{"prompt":"Is the temperature celsius level of patient 10005817 second measured on the last ICU visit greater than the first measurement on the last ICU visit? ->","completion":" yes"}
+{"prompt":"After receiving enteral infusion of concentrated nutritional substances during this year, what are the three most common diagnoses that patients received within 2 months? ->","completion":" yes"}
+{"prompt":"How many patients were in neuro stepdown in the previous year? ->","completion":" yes"}
+{"prompt":"When did patient 10021118 receive urine microbiology test the last time? ->","completion":" yes"}
+{"prompt":"Is the value of anion gap of patient 10031404 second measured on the first hospital visit less than the value first measured on the first hospital visit? ->","completion":" yes"}
+{"prompt":"What was patient 10018081's last input time since 11\/26\/2100? ->","completion":" yes"}
+{"prompt":"Has there been a procedure that patient 10001217 had since 2100? ->","completion":" yes"}
+{"prompt":"What diagnosis did patient 10014078 have last in their first hospital visit? ->","completion":" yes"}
+{"prompt":"Show me the top three most frequent output instances since 1 year ago. ->","completion":" yes"}
+{"prompt":"Has any medicine been prescribed to patient 10029291 since 2100? ->","completion":" yes"}
+{"prompt":"Since 1 year ago, has patient 10022281 come to the ER? ->","completion":" yes"}
+{"prompt":"Show the arterial blood pressure mean changes of patient 10031757 last measured on the first ICU visit compared to the value second to last measured on the first ICU visit? ->","completion":" yes"}
+{"prompt":"Get me the top five most frequent procedures that patients received within 2 months after receiving closed [endoscopic] biopsy of bronchus since 2100. ->","completion":" yes"}
+{"prompt":"Tell me the number of patients diagnosed with type 2 diabetes mellitus with unspecified complications. ->","completion":" yes"}
+{"prompt":"Can you calculate how many patients were prescribed gemfibrozil? ->","completion":" yes"}
+{"prompt":"What percentile is 32.9 on a hematocrit test among patients of the same age as patient 10029291 on the first hospital stay? ->","completion":" yes"}
+{"prompt":"Have patient 14990 an appointment in another department? ->","completion":" no"}
+{"prompt":"How many instances of drainage of peritoneal cavity, percutaneous approach procedures have been completed since 1 year ago? ->","completion":" yes"}
+{"prompt":"What was the last specimen test that was given to patient 10018328 since 17 months ago? ->","completion":" yes"}
+{"prompt":"What was an insurance plan for patient 10005866 in their last hospital visit? ->","completion":" yes"}
+{"prompt":"What specimen test was given in their last hospital encounter to patient 10013049 for the last time? ->","completion":" yes"}
+{"prompt":"Has patient 10018423 been to the E.R.? ->","completion":" yes"}
+{"prompt":"What are the five most typically ordered procedures for patients previously diagnosed with other symbolic dysfunction, which took place within 2 months in 2100? ->","completion":" yes"}
+{"prompt":"Ciprofloxacin iv - How much does it cost? ->","completion":" yes"}
+{"prompt":"Has patient 10005909 been diagnosed with any diseases since 2100? ->","completion":" yes"}
+{"prompt":"Can you tell me the last recorded weight for patient 10007928 since 19 months ago? ->","completion":" yes"}
+{"prompt":"Give me patient 10007928's length of stay for the last ICU stay. ->","completion":" yes"}
+{"prompt":"How many drugs have been prescribed to patient 10019777 since 03\/2100? ->","completion":" yes"}
+{"prompt":"How many hours have passed since the first time patient 10039831 has received a calculated total co2-lab test in the current hospital visit? ->","completion":" yes"}
+{"prompt":"Has patient 10015272 undergone a mch test? ->","completion":" yes"}
+{"prompt":"List the top five most common diagnoses in this year. ->","completion":" yes"}
+{"prompt":"When last did patient 10018081 have the minimum arterial blood pressure diastolic since 10\/04\/2100? ->","completion":" yes"}
+{"prompt":"What was the organism's name of the last foreign body microbiology test done on patient 10007795? ->","completion":" yes"}
+{"prompt":"What are the four most frequently tested specimens for patients that received parenteral infusion of concentrated nutritional substances previously in the same month in this year? ->","completion":" yes"}
+{"prompt":"Is there a genetic test that patient 83062 recieved? ->","completion":" no"}
+{"prompt":"What is the minimum total hospital cost for a person with coronary atherosclerosis of autologous vein bypass graft since 2100? ->","completion":" yes"}
+{"prompt":"Display the top five most commonly prescribed drugs since 1 year ago. ->","completion":" yes"}
+{"prompt":"How many hours is it since patient 10004733 last stayed in the careunit neurology in the current hospital encounter? ->","completion":" yes"}
+{"prompt":"When was the first time since 06\/05\/2100 that patient 10007818's arterial blood pressure mean was measured greater than 72.0? ->","completion":" yes"}
+{"prompt":"What are the four frequently ordered medications for patients diagnosed with hemorrhage of rectum and anus previously within 2 months, in this year? ->","completion":" yes"}
+{"prompt":"Has patient 10019385 been given any medication since 10 months ago? ->","completion":" yes"}
+{"prompt":"What is the name of the treatment given to patient 10038081 two or more times since 07\/2100? ->","completion":" yes"}
+{"prompt":"What were the top three most common procedures that occurred during the same hospital encounter for patients who had extirpation of matter from left lower lobe bronchus, via natural or artificial opening endoscopic before since 1 year ago? ->","completion":" yes"}
+{"prompt":"What was the total number of drugs patient 10005817 was prescribed since 08\/2100? ->","completion":" yes"}
+{"prompt":"What amount of fish oil (omega 3) has been prescribed to patient 10004457 for the last time during their last hospital encounter? ->","completion":" yes"}
+{"prompt":"What is the name of the procedures that were given to patient 10005909 two or more times? ->","completion":" yes"}
+{"prompt":"When was patient 10012552 discharged from the hospital for the last time in 2100? ->","completion":" yes"}
+{"prompt":"What was the last diagnosis for patient 10040025 since 1 year ago? ->","completion":" yes"}
+{"prompt":"What is the difference between arterial blood pressure mean on patient 10002495 last measured on the last ICU visit compared to the value second to last measured on the last ICU visit? ->","completion":" yes"}
+{"prompt":"What was the first instance when the o2 saturation pulseoxymetry of patient 10031757 was less than 97.0, during their last ICU stay? ->","completion":" yes"}
+{"prompt":"For patients diagnosed with hemorrhage of rectum and anus throughout this year, what are the top five most recurrent treatments within 2 months? ->","completion":" yes"}
+{"prompt":"How much is the maximum total hospital bill when it includes a triiodothyronine (t3) lab test in 2100? ->","completion":" yes"}
+{"prompt":"Tell me the reimbursement standard for a drug? ->","completion":" no"}
+{"prompt":"What is the minimum total hospital cost that involves fluoroscopy of multiple coronary arteries using other contrast procedure since 2100? ->","completion":" yes"}
+{"prompt":"Was any tpn without lipids medication provided to patient 10020740 on 03\/26\/2100? ->","completion":" yes"}
+{"prompt":"Tell me patient 10027602's total gastric meds input amount. ->","completion":" yes"}
+{"prompt":"Since 08\/11\/2100, when was the last input time for patient 10039997? ->","completion":" yes"}
+{"prompt":"What new medications are there for patient 10039831 today, compared to the prescriptions given yesterday? ->","completion":" yes"}
+{"prompt":"What are the top five diagnoses associated with the highest 6-month mortality rate? ->","completion":" yes"}
+{"prompt":"When was the first hospital discharge time for patient 10035185 in 2100? ->","completion":" yes"}
+{"prompt":"Are you letting me know if patient 14397 is subject to covid-19 testing? ->","completion":" no"}
+{"prompt":"During the last year, was patient 10014354 in an emergency room? ->","completion":" yes"}
+{"prompt":"Calculate the number of lidocaine jelly 2% (urojet) prescriptions last year. ->","completion":" yes"}
+{"prompt":"Tell me the name of the diagnosis that patient 10039831 received the first time in 2100? ->","completion":" yes"}
+{"prompt":"Tell me the minimum total cost of a hospital that contains patient room in hospital as the place of occurrence of the external cause? ->","completion":" yes"}
+{"prompt":"What are the top three most frequent microbiology tests that patients were diagnosed with malignant neoplasm of lower third of esophagus within 2 months since 2100? ->","completion":" yes"}
+{"prompt":"What was the name of the organism found in patient 10029291's last stool microbiology test? ->","completion":" yes"}
+{"prompt":"How many hours have elapsed since the first time on their current hospital encounter patient 10004733 got a epithelial cells lab test? ->","completion":" yes"}
+{"prompt":"What are the four most frequent procedures for patients aged 50s throughout this year? ->","completion":" yes"}
+{"prompt":"What is the average total hospital cost for a patient diagnosed with hemiplegia, unspecified affecting left nondominant side since 1 year ago? ->","completion":" yes"}
+{"prompt":"Can you tell me the cost of other electric countershock of heart? ->","completion":" yes"}
+{"prompt":"What was the admission type for patient 10021312's first visit to the hospital in 2100? ->","completion":" yes"}
+{"prompt":"Work out the total amount of input patient 10016742 received on 08\/04\/this year. ->","completion":" yes"}
+{"prompt":"Calculate the number of patients with altered mental status, unspecified who were diagnosed in 2100. ->","completion":" yes"}
+{"prompt":"Tell me the number of patients who were prescribed magnesium oxide during the last year. ->","completion":" yes"}
+{"prompt":"Tell me the average total hospital cost that involves atenolol in 2100? ->","completion":" yes"}
+{"prompt":"What was the last dose of ondansetron that patient 10025612 was prescribed during the first hospital visit? ->","completion":" yes"}
+{"prompt":"Tell me the total or ebl output of patient 10027602. ->","completion":" yes"}
+{"prompt":"When did patient 10027602 last receive a blood culture microbiology test since 07\/2100? ->","completion":" yes"}
+{"prompt":"How many gemfibrozil prescriptions were administered? ->","completion":" yes"}
+{"prompt":"What do you do to disinfect the quarantine room? ->","completion":" no"}
+{"prompt":"Has patient 10038992 had a lab test? ->","completion":" yes"}
+{"prompt":"Count the number of hospital visits patient 10021118 had since 2100. ->","completion":" yes"}
+{"prompt":"What was patient 10026354's total input amount of nacl 0.9% since 04\/05\/2100? ->","completion":" yes"}
+{"prompt":"Calculate the length of stay for patient 10001217's first ICU stay. ->","completion":" yes"}
+{"prompt":"Did patient 10017492 have total protein, csf tests in 03\/2100? ->","completion":" yes"}
+{"prompt":"How many patients from the 40s age group are currently admitted? ->","completion":" yes"}
+{"prompt":"Are any new drugs prescribed to patient 10039831 today compared to the ones yesterday? ->","completion":" yes"}
+{"prompt":"Patient 10036156, when was your last mrsa screen microbiology test on the last hospital visit? ->","completion":" yes"}
+{"prompt":"On the first hospital encounter, what amount of bisacodyl was prescribed to patient 10025463? ->","completion":" yes"}
+{"prompt":"Is the value of hemoglobin of patient 10006580 last measured on the last hospital visit less than the value second to last measured on the last hospital visit? ->","completion":" yes"}
+{"prompt":"What are the prices for the drug called lidocaine 5% patch? ->","completion":" yes"}
+{"prompt":"Can you show me the top four frequent output events? ->","completion":" yes"}
+{"prompt":"Has patient 10020944 come to the ER since 1 year ago? ->","completion":" yes"}
+{"prompt":"Was patient 10037861 involved in any medical procedure during the last hospital encounter? ->","completion":" yes"}
+{"prompt":"Has patient 10019172 been admitted into the hospital in 2100? ->","completion":" yes"}
+{"prompt":"Provide the four most common medications in 2100. ->","completion":" yes"}
+{"prompt":"Has patient 10011398 undergone a white blood cells laboratory test since 11\/2100? ->","completion":" yes"}
+{"prompt":"Calculate the number of patients discharged from the hospital since 2100. ->","completion":" yes"}
+{"prompt":"How much does a hospital typically spend maximum on a drug named guaifenesin since 1 year ago? ->","completion":" yes"}
+{"prompt":"What is the average yearly number of people diagnosed with rheumatic disorders of both mitral and aortic valves since 2100? ->","completion":" yes"}
+{"prompt":"Are patient 10009035's bicarbonate levels second measured on the first hospital visit less than the levels first measured on the first hospital visit? ->","completion":" yes"}
+{"prompt":"Was there any lisinopril, 0.45% sodium chloride, or levothyroxine sodium ordered for patient 10002428 during their first hospital encounter? ->","completion":" yes"}
+{"prompt":"How many hours has it been since the first diagnosis of candidiasis of mouth in patient 10018081 during the current hospital visit? ->","completion":" yes"}
+{"prompt":"What are the five commonly taken specimens for patients that received excision of right internal mammary artery, percutaneous endoscopic approach previously within 2 months since 2100? ->","completion":" yes"}
+{"prompt":"Where are the single rooms out there now? ->","completion":" no"}
+{"prompt":"When did patient 10004422 have the first arterial blood pressure diastolic to be less than 64.0 in the first ICU stay? ->","completion":" yes"}
+{"prompt":"Among patients diagnosed with other pulmonary embolism without acute cor pulmonale, what were the top five most common microbiology tests conducted within 2 months? ->","completion":" yes"}
+{"prompt":"What total amount of gabapentin was prescribed to patient 10002495? ->","completion":" yes"}
+{"prompt":"Calculate the sum of patient 10004235's input since 01\/20\/2100. ->","completion":" yes"}
+{"prompt":"Is the type of blood of patient 12775? ->","completion":" no"}
+{"prompt":"What is the change in the medication of patient 10004733 today compared to yesterday? ->","completion":" yes"}
+{"prompt":"What is the anion gap percentile of 11.0 among patients of the same age as patient 10014729 during their first hospital visit? ->","completion":" yes"}
+{"prompt":"Calculate the length of stay for patient 10007058's last ICU stay. ->","completion":" yes"}
+{"prompt":"What is the percentile of the mchc value of 34.3 among patients of the same age as patient 10017492 on their last hospital encounter? ->","completion":" yes"}
+{"prompt":"What were the four most commonly given diagnoses for patients who had received percutaneous abdominal drainage before within 2 months since 1 year ago? ->","completion":" yes"}
+{"prompt":"What is the diagnosis cost of urinary tract infection, site not specified? ->","completion":" yes"}
+{"prompt":"Has there been a performance of cardiac output, continuous procedure performed on patient 10021118 since 2100? ->","completion":" yes"}
+{"prompt":"How much does patient 10008287's arterial blood pressure systolic differ from the last value measured on the first ICU visit compared to the first value measured on the first ICU visit? ->","completion":" yes"}
+{"prompt":"Tell me the percentile of the red blood cells value of 3.03 among patients of the same age as patient 10010471 in the first hospital encounter. ->","completion":" yes"}
+{"prompt":"How many hours have elapsed since the first time on this hospital stay patient 10021487 received a lab test for basophils? ->","completion":" yes"}
+{"prompt":"What was the name of the specimen test that patient 10020944 had for the last time since 03\/2100? ->","completion":" yes"}
+{"prompt":"What are the five frequently ordered drugs for patients diagnosed with unspecified condition of brain previously in the same month? ->","completion":" yes"}
+{"prompt":"What is the total number of other fasciectomy procedures that took place since 2100? ->","completion":" yes"}
+{"prompt":"What were the top five most frequent diagnoses that followed within 2 months for those patients who received laparoscopic partial cholecystectomy since 1 year ago? ->","completion":" yes"}
+{"prompt":"How much octreotide acetate has patient 10007818 been prescribed on the last hospital visit? ->","completion":" yes"}
+{"prompt":"Tell me the top three most commonly prescribed medications within the same hospital visit to patients in their 50s who were diagnosed with chronic obstructive pulmonary disease, unspecified since 2100. ->","completion":" yes"}
+{"prompt":"Provide the sum total of inputs for patient 10007818 since 03\/02\/2100. ->","completion":" yes"}
+{"prompt":"What is the maximum total cost of a hospital visit that includes hemodialysis since 2100? ->","completion":" yes"}
+{"prompt":"Could you tell me the sex of patient 10019172? ->","completion":" yes"}
+{"prompt":"Get the count of hospital visits by patient 10000032 since 1 year ago. ->","completion":" yes"}
+{"prompt":"Among patients in their 50s since 2100, what were the top five most frequent diagnoses? ->","completion":" yes"}
+{"prompt":"Can you tell how many times patient 10015272 visited the ICU in 2100? ->","completion":" yes"}
+{"prompt":"How many days is it since patient 10021487 last stayed in the careunit trauma sicu (tsicu) on their current hospital visit? ->","completion":" yes"}
+{"prompt":"What is the ward id that patient 10278 may be admitted? ->","completion":" no"}
+{"prompt":"What was the first time that patient 10031757 was prescribed acetaminophen and phosphorus since 10\/2100, at the same time? ->","completion":" yes"}
+{"prompt":"Tell me the top five most commonly prescribed drugs in 2100. ->","completion":" yes"}
+{"prompt":"Could you retrieve the top four most conducted lab tests? ->","completion":" yes"}
+{"prompt":"When did patient 10019385 have a last free calcium laboratory test? ->","completion":" yes"}
+{"prompt":"What was the name of the drug patient 10021118 was prescribed with within 2 days after having received a performance of cardiac output, continuous procedure in this month? ->","completion":" yes"}
+{"prompt":"In 05\/2100, when did patient 10007795 first get prescribed iso-osmotic dextrose and 5% dextrose at the same time? ->","completion":" yes"}
+{"prompt":"Calculate the total quantity of output of patient 10021487 on 12\/18\/this year. ->","completion":" yes"}
+{"prompt":"What was the last prescription for patient 10005817? ->","completion":" yes"}
+{"prompt":"How many patients with long-term (current) use of anticoagulants were diagnosed in the same hospital visit after previously being diagnosed with hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage i through stage iv, or unspecified since 2100? ->","completion":" yes"}
+{"prompt":"How much lorazepam was prescribed to patient 10019777 first in 03\/this year? ->","completion":" yes"}
+{"prompt":"What is the average total hospital cost for a procedure involving single internal mammary-coronary artery bypass since 2100? ->","completion":" yes"}
+{"prompt":"Since the first diagnosis of patient 10018081 with pure hypercholesterolemia on their current hospital encounter, how many days have passed? ->","completion":" yes"}
+{"prompt":"Did patient 10038999 undergo a c3 laboratory test in 06\/2100? ->","completion":" yes"}
+{"prompt":"What were the top four diagnoses of patients with age 20s in 2100? ->","completion":" yes"}
+{"prompt":"What output did patient 10038999 have for the last time since 04\/14\/2100? ->","completion":" yes"}
+{"prompt":"Can you tell me the total volume of foley output for patient 10018081 since 12\/07\/2100? ->","completion":" yes"}
+{"prompt":"Using the other anticancer drugs is the protocol of the anticancer drugs ->","completion":" no"}
+{"prompt":"In 2100, what are the top four most common specimens tested for patients previously diagnosed with obstructive chronic bronchitis with (acute) exacerbation within 2 months? ->","completion":" yes"}
+{"prompt":"Are patient 10018081's sodium, urine levels second measured on the current hospital visit less than the levels first measured on the current hospital visit? ->","completion":" yes"}
+{"prompt":"Did patient 10021312 have any prescriptions for medicines on their last hospital encounter? ->","completion":" yes"}
+{"prompt":"When was the last time that patient 10038992 had the absolute basophil count minimum value on the first hospital visit? ->","completion":" yes"}
+{"prompt":"What was the total number of patients on hematology\/oncology in 2100? ->","completion":" yes"}
+{"prompt":"What was the total po intake amount given for patient 10004235 on 03\/24\/2100? ->","completion":" yes"}
+{"prompt":"List the single rooms that are available now? ->","completion":" no"}
+{"prompt":"Can you tell me the top five diagnoses with the highest 3-month mortality rate? ->","completion":" yes"}
+{"prompt":"What are the four diagnoses with the highest 3-month mortality rate? ->","completion":" yes"}
+{"prompt":"Among patients diagnosed with unspecified essential hypertension since 2100, what are the top four medications prescribed within 2 months to patients in their 50s? ->","completion":" yes"}
+{"prompt":"When was patient 10022017's last hospital discharge? ->","completion":" yes"}
+{"prompt":"When did patient 10005817 first leave the hospital since 1 year ago? ->","completion":" yes"}
+{"prompt":"Tell me the name of the organism found in patient 10007795's last abscess microbiology tests in 05\/this year? ->","completion":" yes"}
+{"prompt":"Gather the total number of times patient 10019917 visited the hospital in 2100. ->","completion":" yes"}
+{"prompt":"What are the top five most frequent microbiology tests that patients were diagnosed with operating room of hospital as the place of occurrence of the external cause in the same month? ->","completion":" yes"}
+{"prompt":"In 2100, what are the top five most common microbiology tests that patients were diagnosed with in the same month after being diagnosed with personal history of malignant neoplasm of tongue? ->","completion":" yes"}
+{"prompt":"What was the name of the drug that was last prescribed to patient 10007818 through the iv bolus route? ->","completion":" yes"}
+{"prompt":"How is trazodone typically taken? ->","completion":" yes"}
+{"prompt":"What was patient 10004733's last serology\/blood's microbiology test time in 12\/this year? ->","completion":" yes"}
+{"prompt":"What is the maximum total hospital cost involving a drug named aspirin (buffered) since 2100? ->","completion":" yes"}
+{"prompt":"What is the number of patients who were prescribed ramipril since 2100? ->","completion":" yes"}
+{"prompt":"Can you tell me how many open reduction of fracture with internal fixation, humerus procedures were done in 2100? ->","completion":" yes"}
+{"prompt":"What are the five most frequently ordered medications that patients in their 30s were prescribed during the same month after being diagnosed with unspecified essential hypertension in 2100? ->","completion":" yes"}
+{"prompt":"I need the total volume of input for patient 10027602 since 06\/23\/2100. ->","completion":" yes"}
+{"prompt":"What output did patient 10015860 generate first since 10\/04\/2100? ->","completion":" yes"}
+{"prompt":"What was the name of the drug that in the last hospital encounter patient 10038992 was first prescribed? ->","completion":" yes"}
+{"prompt":"What was the name of that output that patient 10039831 first had since 10\/23\/2100? ->","completion":" yes"}
+{"prompt":"Count the number of hospital visits that patient 10019917 had in 2100. ->","completion":" yes"}
+{"prompt":"Number of patients who received a introduction of other therapeutic substance into heart, open approach procedure in 2100. ->","completion":" yes"}
+{"prompt":"What's the maximum yearly number of admissions for respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia since 2100? ->","completion":" yes"}
+{"prompt":"What is the average expense for assistance with cardiac output using balloon pump, continuous? ->","completion":" yes"}
+{"prompt":"What was the admission type for patient 10024043's first entry into the hospital since 2100? ->","completion":" yes"}
+{"prompt":"Count the number of patients that were discharged from the hospital. ->","completion":" yes"}
+{"prompt":"What amount of heparin was prescribed to patient 10021666? ->","completion":" yes"}
+{"prompt":"Did patient 73713 have overseas travel history? ->","completion":" no"}
+{"prompt":"List the top five most frequent lab tests during this year. ->","completion":" yes"}
+{"prompt":"Among patients who were given destruction of right lower lung lobe, via natural or artificial opening endoscopic in 2100, what are the top four most common specimens tested afterward during the same hospital visit? ->","completion":" yes"}
+{"prompt":"What is patient 10018328's gender? ->","completion":" yes"}
+{"prompt":"When were the drugs ketorolac and acetaminophen iv prescribed to patient 10021118 for the first time this month at the same time? ->","completion":" yes"}
+{"prompt":"What was the last measurement of o2 saturation pulseoxymetry in patient 10015931's body since 10\/01\/2100? ->","completion":" yes"}
+{"prompt":"What was the last respiratory rate value patient 10027602 had on 12\/04\/2100? ->","completion":" yes"}
+{"prompt":"What is the difference between weights last measured on the first hospital visit compared to the second to last value measured on the first hospital visit for patient 10004720? ->","completion":" yes"}
+{"prompt":"Was patient 10019777 on any vital high protein (full) in 03\/2100? ->","completion":" yes"}
+{"prompt":"What is the average yearly number of patients who suffer from coronary atherosclerosis of autologous vein bypass graft? ->","completion":" yes"}
+{"prompt":"What was the organism detected during the first bronchial washings microbiology test of patient 10021312 since 08\/2100? ->","completion":" yes"}
+{"prompt":"Count the number of patients in med\/surg since 1 year ago. ->","completion":" yes"}
+{"prompt":"What was the drug that patient 10025463 was prescribed with during the same day after the catheter based invasive electrophysiologic testing? ->","completion":" yes"}
+{"prompt":"Has patient 10005866 been admitted into an emergency room since 1 year ago? ->","completion":" yes"}
+{"prompt":"Show me the top four most commonly prescribed drugs during the same hospital encounter to the patients aged 40s after diagnosed with alcohol abuse, unspecified since 1 year ago. ->","completion":" yes"}
+{"prompt":"What drug was the last drug prescribed for patient 10020786? ->","completion":" yes"}
+{"prompt":"List the five most frequent diagnoses a patient was diagnosed with within 2 months after receiving central venous catheter placement with guidance since 1 year ago. ->","completion":" yes"}
+{"prompt":"Has patient 10005909 had any diagnoses? ->","completion":" yes"}
+{"prompt":"How much difference is there in phosphate levels among patient 10015931 second measured on the first hospital visit compared to the value first measured on the first hospital visit? ->","completion":" yes"}
